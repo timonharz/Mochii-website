@@ -71,7 +71,7 @@ const homeContent = {
       },
       {
         title: "Cozy by design",
-        text: "Dark surfaces, vivid lime accents, and soft motion keep the experience close to the live Framer version.",
+        text: "Dark surfaces, vivid lime accents, and soft motion keep the experience focused, intimate, and cinematic.",
       },
       {
         title: "Fast to start",
@@ -143,7 +143,7 @@ const homeContent = {
   finalCta: {
     title: "Connect with Mochii.",
     text:
-      "The new React build keeps the live visual direction, localizes the assets, and removes every Framer runtime dependency.",
+      "Mochii is built as a focused home for immersive AI companion conversations, with a fast landing experience and clear path into the app.",
   },
 };
 
@@ -462,38 +462,35 @@ function SiteFooter() {
 }
 
 function HeroSection() {
+  const heroBackgroundStyle = siteData.assets.heroImage
+    ? { "--hero-image": `url(${siteData.assets.heroImage})` }
+    : undefined;
+
   return (
-    <section className="hero shell" id="hero">
-      <div className="hero-copy">
-        <Reveal variant="up">
-          <p className="hero-kicker">mochii</p>
-        </Reveal>
-        <Reveal variant="up">
-          <h1>{homeContent.heading}</h1>
-        </Reveal>
-        <Reveal variant="up">
-          <p className="hero-subheading">{homeContent.subheading}</p>
-        </Reveal>
-        <Reveal variant="up">
-          <div className="hero-actions">
-            <a className="button button-primary" href={siteData.socialLinks.primaryCta} target="_blank" rel="noreferrer">
-              {homeContent.primaryCtaLabel}
-            </a>
-            <Link className="button button-ghost" to="/#features">
-              {homeContent.scrollLabel}
-            </Link>
-          </div>
-        </Reveal>
-      </div>
-      <Reveal variant="scale" className="hero-visual">
-        <div className="hero-frame">
-          {siteData.assets.heroImage ? (
-            <img src={siteData.assets.heroImage} alt="Mochii app preview" />
-          ) : (
-            <div className="hero-placeholder" />
-          )}
+    <section className="hero" id="hero" style={heroBackgroundStyle}>
+      <div className="hero-shell shell">
+        <div className="hero-copy">
+          <Reveal variant="up">
+            <p className="hero-kicker">mochii</p>
+          </Reveal>
+          <Reveal variant="up">
+            <h1>{homeContent.heading}</h1>
+          </Reveal>
+          <Reveal variant="up">
+            <p className="hero-subheading">{homeContent.subheading}</p>
+          </Reveal>
+          <Reveal variant="up">
+            <div className="hero-actions">
+              <a className="button button-primary" href={siteData.socialLinks.primaryCta} target="_blank" rel="noreferrer">
+                {homeContent.primaryCtaLabel}
+              </a>
+              <Link className="button button-ghost" to="/#features">
+                {homeContent.scrollLabel}
+              </Link>
+            </div>
+          </Reveal>
         </div>
-      </Reveal>
+      </div>
     </section>
   );
 }
@@ -598,7 +595,7 @@ function HomePage() {
         <Reveal variant="up">
           <SectionIntro
             label={homeContent.faq.label}
-            title="Clear route structure. Local assets. No Framer runtime."
+            title="Clear routes. Local assets. Built for Mochii."
           />
         </Reveal>
         <div className="faq-list">
