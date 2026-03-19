@@ -174,9 +174,9 @@ select {
 .hero {
   min-height: calc(100vh - var(--header-height));
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(320px, 560px);
+  grid-template-columns: minmax(0, 1fr) minmax(420px, 640px);
   align-items: center;
-  gap: 56px;
+  gap: 44px;
   padding: 64px 0 72px;
 }
 
@@ -242,42 +242,30 @@ select {
 .hero-visual {
   justify-self: end;
   width: 100%;
+  max-width: 640px;
 }
 
 .hero-frame {
   position: relative;
-  padding: 18px;
-  border-radius: var(--radius-xl);
-  background:
-    linear-gradient(180deg, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.03)),
-    rgba(18, 18, 18, 0.88);
+  aspect-ratio: 2752 / 1536;
+  overflow: hidden;
+  border-radius: 32px;
   border: 1px solid rgba(255, 255, 255, 0.08);
-  box-shadow: var(--shadow);
-}
-
-.hero-frame::before {
-  content: "";
-  position: absolute;
-  inset: -1px;
-  border-radius: inherit;
-  background: linear-gradient(135deg, rgba(232, 255, 156, 0.35), transparent 28%, transparent 72%, rgba(255, 255, 255, 0.18));
-  pointer-events: none;
-  mask:
-    linear-gradient(#fff 0 0) content-box,
-    linear-gradient(#fff 0 0);
-  mask-composite: exclude;
-  padding: 1px;
+  background: rgba(255, 255, 255, 0.02);
+  box-shadow:
+    0 24px 70px rgba(0, 0, 0, 0.36),
+    0 0 0 1px rgba(255, 255, 255, 0.03) inset;
 }
 
 .hero-frame img {
-  border-radius: calc(var(--radius-xl) - 10px);
   width: 100%;
+  height: 100%;
   object-fit: cover;
+  object-position: center center;
 }
 
 .hero-placeholder {
   min-height: 460px;
-  border-radius: calc(var(--radius-xl) - 10px);
   background: linear-gradient(135deg, rgba(232, 255, 156, 0.18), rgba(255, 255, 255, 0.03));
 }
 

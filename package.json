@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "import:site": "node scripts/import-site.mjs"
+    "import:site": "node scripts/import-site.mjs",
+    "deploy:pages": "wrangler pages deploy dist --project-name=mochii-website"
   },
   "dependencies": {
     "react": "^18.3.1",
@@ -17,6 +18,7 @@
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.4",
     "cheerio": "^1.0.0",
-    "vite": "^5.4.19"
+    "vite": "^5.4.19",
+    "wrangler": "^4.75.0"
   }
 }

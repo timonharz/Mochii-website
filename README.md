@@ -33,6 +33,18 @@ This repo is set up for a static Cloudflare Pages deployment.
 - Node version: `20` or newer
 - SPA routing: handled by `public/_redirects`
 
+### Important
+
+If your Cloudflare project is using **Git integration**, do not set a custom deploy command. Pages should build the repo and deploy `dist` automatically after the build completes.
+
+If your Cloudflare setup expects a **custom deploy command**, use:
+
+```bash
+npm run deploy:pages
+```
+
+Do not use `npx wrangler deploy` for this repo. That command is for Workers and will fail or deploy the wrong product.
+
 You can deploy either way:
 
 1. Git integration
@@ -42,4 +54,4 @@ You can deploy either way:
 
 2. Wrangler / direct deploy
    - `wrangler.toml` already sets `pages_build_output_dir = "./dist"`.
-   - After building, deploy with `wrangler pages deploy dist`.
+   - After building, deploy with `npm run deploy:pages`.
