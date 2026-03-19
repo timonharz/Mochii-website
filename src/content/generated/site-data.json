@@ -1,0 +1,2384 @@
+{
+  "generatedAt": "2026-03-19T19:10:10.873Z",
+  "origin": "https://mochii.framer.website",
+  "routes": {
+    "/": {
+      "route": "/",
+      "slug": "home",
+      "meta": {
+        "title": "mochii - AI Character Chat",
+        "description": "Chat with AI characters on mochii — your cozy space for immersive, personalized conversations with unique AI personas. Start chatting for free today.",
+        "canonical": "https://mochii.framer.website/"
+      },
+      "items": [
+        {
+          "tag": "h1",
+          "text": "Dont just chat. Connect."
+        },
+        {
+          "tag": "p",
+          "text": "Connect with millions of different ai characters."
+        },
+        {
+          "tag": "p",
+          "text": "Begin Journey"
+        },
+        {
+          "tag": "p",
+          "text": "Scroll to explore"
+        },
+        {
+          "tag": "p",
+          "text": "Chat with infinity"
+        }
+      ],
+      "title": "Dont just chat. Connect.",
+      "lead": [
+        {
+          "type": "paragraph",
+          "text": "Connect with millions of different ai characters."
+        },
+        {
+          "type": "paragraph",
+          "text": "Begin Journey"
+        },
+        {
+          "type": "paragraph",
+          "text": "Scroll to explore"
+        },
+        {
+          "type": "paragraph",
+          "text": "Chat with infinity"
+        }
+      ],
+      "sections": [],
+      "links": [
+        {
+          "href": "./#about",
+          "text": "About"
+        },
+        {
+          "href": "./#features",
+          "text": "Features"
+        },
+        {
+          "href": "./privacy",
+          "text": "Privacy"
+        },
+        {
+          "href": "https://framer.link/7L9chrF",
+          "text": "Get Started"
+        },
+        {
+          "href": "./",
+          "text": "About"
+        },
+        {
+          "href": "./#about",
+          "text": "Features"
+        },
+        {
+          "href": "./#testimonials",
+          "text": "Testimonials"
+        },
+        {
+          "href": "./#testimonials",
+          "text": "Pricing"
+        },
+        {
+          "href": "./#faq",
+          "text": "FAQ"
+        },
+        {
+          "href": "https://framer.link/7L9chrF",
+          "text": "Begin Journey"
+        },
+        {
+          "href": "./terms-of-use",
+          "text": "Terms of Use"
+        },
+        {
+          "href": "./eula",
+          "text": "End User License Agreement (EULA)"
+        },
+        {
+          "href": "https://www.framer.com",
+          "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+        }
+      ]
+    },
+    "/privacy": {
+      "route": "/privacy",
+      "slug": "privacy",
+      "meta": {
+        "title": "Message AI – AI Model Landing Page Template",
+        "description": "A sleek Framer template for AI startups, LLM tools, and generative assistants. Built to convert with bold design, flexible sections, and instant setup.",
+        "canonical": "https://mochii.framer.website/privacy"
+      },
+      "items": [
+        {
+          "tag": "h1",
+          "text": "Privacy"
+        },
+        {
+          "tag": "p",
+          "text": "App Name: MochiiEffective Date: 3rd March 2026Last Updated: 3rd March 2026"
+        },
+        {
+          "tag": "h2",
+          "text": "1. Introduction"
+        },
+        {
+          "tag": "p",
+          "text": "Welcome to Mochii (\"we,\" \"our,\" or \"us\"). We are committed to protecting your privacy and being transparent about how we handle your information. This Privacy Policy explains what data we collect, how we use it, and the choices you have when you use the Mochii app (\"App\")."
+        },
+        {
+          "tag": "p",
+          "text": "By downloading or using Mochii, you agree to the practices described in this policy. If you do not agree, please discontinue use of the App."
+        },
+        {
+          "tag": "h2",
+          "text": "2. Information We Collect"
+        },
+        {
+          "tag": "p",
+          "text": "2.1 Information You Provide Directly"
+        },
+        {
+          "tag": "li",
+          "text": "Account information – If you create an account, we collect your email address and any display name or profile details you choose to provide."
+        },
+        {
+          "tag": "li",
+          "text": "Chat content – Messages and conversations you have with your Mochii companion. These are used solely to power your in-app experience."
+        },
+        {
+          "tag": "li",
+          "text": "User preferences – Settings, character configurations, and personalization choices you make within the App."
+        },
+        {
+          "tag": "p",
+          "text": "2.2 Information Collected Automatically"
+        },
+        {
+          "tag": "li",
+          "text": "Device information – Device type, operating system version, and unique device identifiers."
+        },
+        {
+          "tag": "li",
+          "text": "Usage data – Features you interact with, session length, and general in-app behavior (e.g., which screens you visit). This data is collected in aggregate and is not linked to your identity."
+        },
+        {
+          "tag": "li",
+          "text": "Crash and performance logs – Diagnostic data to help us identify and fix technical issues."
+        },
+        {
+          "tag": "p",
+          "text": "2.3 Information We Do NOT Collect"
+        },
+        {
+          "tag": "li",
+          "text": "We do not collect your real name, phone number, or physical address unless you voluntarily provide it."
+        },
+        {
+          "tag": "li",
+          "text": "We do not access your contacts, camera, microphone, or photos unless you explicitly grant permission for a specific feature."
+        },
+        {
+          "tag": "li",
+          "text": "We do not track your location."
+        },
+        {
+          "tag": "h2",
+          "text": "3. How We Use Your Information"
+        },
+        {
+          "tag": "p",
+          "text": "We use the information we collect to:"
+        },
+        {
+          "tag": "li",
+          "text": "Provide and personalize your Mochii companion experience"
+        },
+        {
+          "tag": "li",
+          "text": "Remember your preferences and past interactions to make conversations feel more consistent"
+        },
+        {
+          "tag": "li",
+          "text": "Improve the App's performance, fix bugs, and develop new features"
+        },
+        {
+          "tag": "li",
+          "text": "Respond to your support requests"
+        },
+        {
+          "tag": "li",
+          "text": "Send important service-related notifications (e.g., policy updates, security alerts)"
+        },
+        {
+          "tag": "li",
+          "text": "Comply with applicable laws and legal obligations"
+        },
+        {
+          "tag": "p",
+          "text": "We do not use your chat content to train AI models without your explicit, opt-in consent."
+        },
+        {
+          "tag": "h2",
+          "text": "4. Data Sharing & Disclosure"
+        },
+        {
+          "tag": "p",
+          "text": "We value your trust and do not sell your personal data. We may share limited information only in the following circumstances:"
+        },
+        {
+          "tag": "li",
+          "text": "Service providers – Trusted third-party vendors (e.g., cloud hosting, analytics) who assist us in operating the App. These partners are contractually prohibited from using your data for any purpose other than providing services to us."
+        },
+        {
+          "tag": "li",
+          "text": "Legal compliance – When required by law, court order, or to protect the rights, safety, or property of Mochii, its users, or the public."
+        },
+        {
+          "tag": "li",
+          "text": "Business transfers – In the event of a merger, acquisition, or asset sale, your information may be transferred. We will notify you before this occurs."
+        },
+        {
+          "tag": "p",
+          "text": "We do not share your personal data with advertisers."
+        },
+        {
+          "tag": "h2",
+          "text": "5. Data Retention"
+        },
+        {
+          "tag": "p",
+          "text": "We retain your data only as long as necessary to provide the App's services or as required by law."
+        },
+        {
+          "tag": "li",
+          "text": "Account data is retained for as long as your account is active."
+        },
+        {
+          "tag": "li",
+          "text": "Chat history is stored to enable continuity of your experience and is deleted when you delete your account."
+        },
+        {
+          "tag": "li",
+          "text": "Anonymized analytics data may be retained indefinitely in aggregate form."
+        },
+        {
+          "tag": "h2",
+          "text": "6. Your Rights & Choices"
+        },
+        {
+          "tag": "p",
+          "text": "You have the right to:"
+        },
+        {
+          "tag": "li",
+          "text": "Access the personal data we hold about you"
+        },
+        {
+          "tag": "li",
+          "text": "Correct inaccurate or incomplete data"
+        },
+        {
+          "tag": "li",
+          "text": "Delete your data and account at any time, directly within the App (Settings → Account → Delete Account)"
+        },
+        {
+          "tag": "li",
+          "text": "Opt out of any optional data collection (e.g., analytics), where applicable"
+        },
+        {
+          "tag": "li",
+          "text": "Export your data upon request"
+        },
+        {
+          "tag": "p",
+          "text": "To exercise any of these rights, contact us at [Insert Support Email]."
+        },
+        {
+          "tag": "h2",
+          "text": "7. Data Security"
+        },
+        {
+          "tag": "p",
+          "text": "We take reasonable and industry-standard measures to protect your data, including:"
+        },
+        {
+          "tag": "li",
+          "text": "End-to-end encryption for chat messages"
+        },
+        {
+          "tag": "li",
+          "text": "Encrypted data transmission (HTTPS/TLS)"
+        },
+        {
+          "tag": "li",
+          "text": "Restricted access controls within our team"
+        },
+        {
+          "tag": "li",
+          "text": "Regular security reviews"
+        },
+        {
+          "tag": "p",
+          "text": "No method of transmission over the internet is 100% secure. While we strive to protect your information, we cannot guarantee absolute security."
+        },
+        {
+          "tag": "h2",
+          "text": "8. Children's Privacy"
+        },
+        {
+          "tag": "p",
+          "text": "Mochii is not intended for users under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal data, we will take prompt steps to delete it."
+        },
+        {
+          "tag": "p",
+          "text": "If you are a parent or guardian and believe your child has used Mochii, please contact us at [Insert Support Email]."
+        },
+        {
+          "tag": "h2",
+          "text": "9. Third-Party Services"
+        },
+        {
+          "tag": "p",
+          "text": "The App may integrate with third-party services (e.g., payment processors, AI infrastructure providers). These services have their own privacy policies, and we encourage you to review them. We are not responsible for the privacy practices of third parties."
+        },
+        {
+          "tag": "h2",
+          "text": "10. California Residents (CCPA)"
+        },
+        {
+          "tag": "p",
+          "text": "If you are a California resident, you have additional rights under the California Consumer Privacy Act (CCPA), including the right to know what personal information is collected, the right to delete it, and the right to opt out of the \"sale\" of personal information. We do not sell personal information. To submit a CCPA request, contact us at [Insert Support Email]."
+        },
+        {
+          "tag": "h2",
+          "text": "11. International Users"
+        },
+        {
+          "tag": "p",
+          "text": "Mochii is operated from [Insert Country]. If you are accessing the App from outside this region, please be aware that your data may be processed in a jurisdiction with different data protection laws. By using the App, you consent to the transfer and processing of your data in accordance with this policy."
+        },
+        {
+          "tag": "h2",
+          "text": "12. Changes to This Policy"
+        },
+        {
+          "tag": "p",
+          "text": "We may update this Privacy Policy from time to time. When we do, we will revise the \"Last Updated\" date at the top and, where appropriate, notify you via in-app notice or email. Continued use of the App after any changes constitutes your acceptance of the updated policy."
+        },
+        {
+          "tag": "h2",
+          "text": "13. Contact Us"
+        },
+        {
+          "tag": "p",
+          "text": "If you have any questions, concerns, or requests related to this Privacy Policy, please contact us:"
+        },
+        {
+          "tag": "p",
+          "text": "Mochii Support📧 oneboardhq@outlook.com"
+        }
+      ],
+      "title": "Privacy",
+      "lead": [
+        {
+          "type": "paragraph",
+          "text": "App Name: MochiiEffective Date: 3rd March 2026Last Updated: 3rd March 2026"
+        }
+      ],
+      "sections": [
+        {
+          "title": "1. Introduction",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Welcome to Mochii (\"we,\" \"our,\" or \"us\"). We are committed to protecting your privacy and being transparent about how we handle your information. This Privacy Policy explains what data we collect, how we use it, and the choices you have when you use the Mochii app (\"App\")."
+            },
+            {
+              "type": "paragraph",
+              "text": "By downloading or using Mochii, you agree to the practices described in this policy. If you do not agree, please discontinue use of the App."
+            }
+          ]
+        },
+        {
+          "title": "2. Information We Collect",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "2.1 Information You Provide Directly"
+            },
+            {
+              "type": "bullet",
+              "text": "Account information – If you create an account, we collect your email address and any display name or profile details you choose to provide."
+            },
+            {
+              "type": "bullet",
+              "text": "Chat content – Messages and conversations you have with your Mochii companion. These are used solely to power your in-app experience."
+            },
+            {
+              "type": "bullet",
+              "text": "User preferences – Settings, character configurations, and personalization choices you make within the App."
+            },
+            {
+              "type": "paragraph",
+              "text": "2.2 Information Collected Automatically"
+            },
+            {
+              "type": "bullet",
+              "text": "Device information – Device type, operating system version, and unique device identifiers."
+            },
+            {
+              "type": "bullet",
+              "text": "Usage data – Features you interact with, session length, and general in-app behavior (e.g., which screens you visit). This data is collected in aggregate and is not linked to your identity."
+            },
+            {
+              "type": "bullet",
+              "text": "Crash and performance logs – Diagnostic data to help us identify and fix technical issues."
+            },
+            {
+              "type": "paragraph",
+              "text": "2.3 Information We Do NOT Collect"
+            },
+            {
+              "type": "bullet",
+              "text": "We do not collect your real name, phone number, or physical address unless you voluntarily provide it."
+            },
+            {
+              "type": "bullet",
+              "text": "We do not access your contacts, camera, microphone, or photos unless you explicitly grant permission for a specific feature."
+            },
+            {
+              "type": "bullet",
+              "text": "We do not track your location."
+            }
+          ]
+        },
+        {
+          "title": "3. How We Use Your Information",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We use the information we collect to:"
+            },
+            {
+              "type": "bullet",
+              "text": "Provide and personalize your Mochii companion experience"
+            },
+            {
+              "type": "bullet",
+              "text": "Remember your preferences and past interactions to make conversations feel more consistent"
+            },
+            {
+              "type": "bullet",
+              "text": "Improve the App's performance, fix bugs, and develop new features"
+            },
+            {
+              "type": "bullet",
+              "text": "Respond to your support requests"
+            },
+            {
+              "type": "bullet",
+              "text": "Send important service-related notifications (e.g., policy updates, security alerts)"
+            },
+            {
+              "type": "bullet",
+              "text": "Comply with applicable laws and legal obligations"
+            },
+            {
+              "type": "paragraph",
+              "text": "We do not use your chat content to train AI models without your explicit, opt-in consent."
+            }
+          ]
+        },
+        {
+          "title": "4. Data Sharing & Disclosure",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We value your trust and do not sell your personal data. We may share limited information only in the following circumstances:"
+            },
+            {
+              "type": "bullet",
+              "text": "Service providers – Trusted third-party vendors (e.g., cloud hosting, analytics) who assist us in operating the App. These partners are contractually prohibited from using your data for any purpose other than providing services to us."
+            },
+            {
+              "type": "bullet",
+              "text": "Legal compliance – When required by law, court order, or to protect the rights, safety, or property of Mochii, its users, or the public."
+            },
+            {
+              "type": "bullet",
+              "text": "Business transfers – In the event of a merger, acquisition, or asset sale, your information may be transferred. We will notify you before this occurs."
+            },
+            {
+              "type": "paragraph",
+              "text": "We do not share your personal data with advertisers."
+            }
+          ]
+        },
+        {
+          "title": "5. Data Retention",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We retain your data only as long as necessary to provide the App's services or as required by law."
+            },
+            {
+              "type": "bullet",
+              "text": "Account data is retained for as long as your account is active."
+            },
+            {
+              "type": "bullet",
+              "text": "Chat history is stored to enable continuity of your experience and is deleted when you delete your account."
+            },
+            {
+              "type": "bullet",
+              "text": "Anonymized analytics data may be retained indefinitely in aggregate form."
+            }
+          ]
+        },
+        {
+          "title": "6. Your Rights & Choices",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "You have the right to:"
+            },
+            {
+              "type": "bullet",
+              "text": "Access the personal data we hold about you"
+            },
+            {
+              "type": "bullet",
+              "text": "Correct inaccurate or incomplete data"
+            },
+            {
+              "type": "bullet",
+              "text": "Delete your data and account at any time, directly within the App (Settings → Account → Delete Account)"
+            },
+            {
+              "type": "bullet",
+              "text": "Opt out of any optional data collection (e.g., analytics), where applicable"
+            },
+            {
+              "type": "bullet",
+              "text": "Export your data upon request"
+            },
+            {
+              "type": "paragraph",
+              "text": "To exercise any of these rights, contact us at [Insert Support Email]."
+            }
+          ]
+        },
+        {
+          "title": "7. Data Security",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We take reasonable and industry-standard measures to protect your data, including:"
+            },
+            {
+              "type": "bullet",
+              "text": "End-to-end encryption for chat messages"
+            },
+            {
+              "type": "bullet",
+              "text": "Encrypted data transmission (HTTPS/TLS)"
+            },
+            {
+              "type": "bullet",
+              "text": "Restricted access controls within our team"
+            },
+            {
+              "type": "bullet",
+              "text": "Regular security reviews"
+            },
+            {
+              "type": "paragraph",
+              "text": "No method of transmission over the internet is 100% secure. While we strive to protect your information, we cannot guarantee absolute security."
+            }
+          ]
+        },
+        {
+          "title": "8. Children's Privacy",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Mochii is not intended for users under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal data, we will take prompt steps to delete it."
+            },
+            {
+              "type": "paragraph",
+              "text": "If you are a parent or guardian and believe your child has used Mochii, please contact us at [Insert Support Email]."
+            }
+          ]
+        },
+        {
+          "title": "9. Third-Party Services",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The App may integrate with third-party services (e.g., payment processors, AI infrastructure providers). These services have their own privacy policies, and we encourage you to review them. We are not responsible for the privacy practices of third parties."
+            }
+          ]
+        },
+        {
+          "title": "10. California Residents (CCPA)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "If you are a California resident, you have additional rights under the California Consumer Privacy Act (CCPA), including the right to know what personal information is collected, the right to delete it, and the right to opt out of the \"sale\" of personal information. We do not sell personal information. To submit a CCPA request, contact us at [Insert Support Email]."
+            }
+          ]
+        },
+        {
+          "title": "11. International Users",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Mochii is operated from [Insert Country]. If you are accessing the App from outside this region, please be aware that your data may be processed in a jurisdiction with different data protection laws. By using the App, you consent to the transfer and processing of your data in accordance with this policy."
+            }
+          ]
+        },
+        {
+          "title": "12. Changes to This Policy",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We may update this Privacy Policy from time to time. When we do, we will revise the \"Last Updated\" date at the top and, where appropriate, notify you via in-app notice or email. Continued use of the App after any changes constitutes your acceptance of the updated policy."
+            }
+          ]
+        },
+        {
+          "title": "13. Contact Us",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "If you have any questions, concerns, or requests related to this Privacy Policy, please contact us:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Mochii Support📧 oneboardhq@outlook.com"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "href": "./#about",
+          "text": "About"
+        },
+        {
+          "href": "./#features",
+          "text": "Features"
+        },
+        {
+          "href": "./privacy",
+          "text": "Privacy"
+        },
+        {
+          "href": "https://framer.link/7L9chrF",
+          "text": "Get Started"
+        },
+        {
+          "href": "./",
+          "text": "Back to home"
+        },
+        {
+          "href": "./terms-of-use",
+          "text": "Terms of Use"
+        },
+        {
+          "href": "./eula",
+          "text": "End User License Agreement (EULA)"
+        },
+        {
+          "href": "https://www.framer.com",
+          "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+        }
+      ]
+    },
+    "/terms-of-use": {
+      "route": "/terms-of-use",
+      "slug": "terms-of-use",
+      "meta": {
+        "title": "Message AI – AI Model Landing Page Template",
+        "description": "A sleek Framer template for AI startups, LLM tools, and generative assistants. Built to convert with bold design, flexible sections, and instant setup.",
+        "canonical": "https://mochii.framer.website/terms-of-use"
+      },
+      "items": [
+        {
+          "tag": "h1",
+          "text": "Terms of Use"
+        },
+        {
+          "tag": "p",
+          "text": "App Name: MochiiEffective Date: 3rd March 2026Last Updated: 3rd March 2026"
+        },
+        {
+          "tag": "h2",
+          "text": "1. Acceptance of Terms"
+        },
+        {
+          "tag": "p",
+          "text": "By downloading, installing, or using the Mochii app (\"App\"), you agree to be bound by these Terms of Use (\"Terms\"). If you do not agree to these Terms, do not use the App."
+        },
+        {
+          "tag": "p",
+          "text": "These Terms form a legally binding agreement between you and Mochii (\"we,\" \"our,\" or \"us\"). We reserve the right to update these Terms at any time. Continued use of the App after changes are posted constitutes your acceptance of the revised Terms."
+        },
+        {
+          "tag": "h2",
+          "text": "2. Eligibility"
+        },
+        {
+          "tag": "p",
+          "text": "You must be at least 18 years old to use Mochii. If you are under 18, you represent that your parent or legal guardian has reviewed and agreed to these Terms on your behalf."
+        },
+        {
+          "tag": "p",
+          "text": "By using the App, you confirm that:"
+        },
+        {
+          "tag": "li",
+          "text": "You are legally capable of entering into a binding agreement"
+        },
+        {
+          "tag": "li",
+          "text": "You are not located in a country subject to a U.S. government embargo or designated as a \"terrorist supporting\" country"
+        },
+        {
+          "tag": "li",
+          "text": "You are not listed on any U.S. government prohibited or restricted party list"
+        },
+        {
+          "tag": "h2",
+          "text": "3. Account Registration"
+        },
+        {
+          "tag": "p",
+          "text": "To access certain features, you may be required to create an account. You agree to:"
+        },
+        {
+          "tag": "li",
+          "text": "Provide accurate, current, and complete information during registration"
+        },
+        {
+          "tag": "li",
+          "text": "Keep your login credentials confidential and not share them with others"
+        },
+        {
+          "tag": "li",
+          "text": "Notify us immediately at [Insert Support Email] if you suspect unauthorized access to your account"
+        },
+        {
+          "tag": "li",
+          "text": "Be solely responsible for all activity that occurs under your account"
+        },
+        {
+          "tag": "p",
+          "text": "We reserve the right to suspend or terminate accounts that violate these Terms or that we determine, in our sole discretion, to be fraudulent or harmful."
+        },
+        {
+          "tag": "h2",
+          "text": "4. Use of the App"
+        },
+        {
+          "tag": "p",
+          "text": "4.1 License"
+        },
+        {
+          "tag": "p",
+          "text": "We grant you a limited, non-exclusive, non-transferable, revocable license to use Mochii for your personal, non-commercial use, subject to these Terms."
+        },
+        {
+          "tag": "p",
+          "text": "4.2 Acceptable Use"
+        },
+        {
+          "tag": "p",
+          "text": "You agree to use the App only for lawful purposes. You must not:"
+        },
+        {
+          "tag": "li",
+          "text": "Use the App to harass, threaten, or harm any person"
+        },
+        {
+          "tag": "li",
+          "text": "Attempt to extract, reverse-engineer, decompile, or disassemble any part of the App"
+        },
+        {
+          "tag": "li",
+          "text": "Use automated tools (bots, scrapers, crawlers) to access or interact with the App"
+        },
+        {
+          "tag": "li",
+          "text": "Attempt to circumvent any security, access control, or rate-limiting measures"
+        },
+        {
+          "tag": "li",
+          "text": "Impersonate any person, entity, or Mochii itself"
+        },
+        {
+          "tag": "li",
+          "text": "Use the App for any commercial purpose without our prior written consent"
+        },
+        {
+          "tag": "li",
+          "text": "Upload or transmit malware, viruses, or any malicious code"
+        },
+        {
+          "tag": "p",
+          "text": "4.3 AI Interaction Guidelines"
+        },
+        {
+          "tag": "p",
+          "text": "Mochii features AI-powered companions. You acknowledge that:"
+        },
+        {
+          "tag": "li",
+          "text": "Conversations with Mochii companions are generated by artificial intelligence and do not constitute real human relationships, professional advice (medical, legal, financial, or otherwise), or guaranteed outcomes"
+        },
+        {
+          "tag": "li",
+          "text": "You will not attempt to manipulate the AI to generate harmful, illegal, or abusive content"
+        },
+        {
+          "tag": "li",
+          "text": "AI-generated responses may occasionally be inaccurate, incomplete, or unexpected — you use them at your own discretion"
+        },
+        {
+          "tag": "h2",
+          "text": "5. User-Generated Content"
+        },
+        {
+          "tag": "p",
+          "text": "If the App allows you to submit or share content (e.g., profile information, character customizations, or messages), you retain ownership of that content. However, by submitting content, you grant us a worldwide, royalty-free, non-exclusive license to use, store, and display your content solely for the purpose of operating and improving the App."
+        },
+        {
+          "tag": "p",
+          "text": "You represent and warrant that any content you submit:"
+        },
+        {
+          "tag": "li",
+          "text": "Does not infringe any third-party intellectual property rights"
+        },
+        {
+          "tag": "li",
+          "text": "Does not contain illegal, defamatory, obscene, or harmful material"
+        },
+        {
+          "tag": "li",
+          "text": "Complies with all applicable laws"
+        },
+        {
+          "tag": "p",
+          "text": "We reserve the right to remove any content that violates these Terms without prior notice."
+        },
+        {
+          "tag": "h2",
+          "text": "6. Subscriptions & In-App Purchases"
+        },
+        {
+          "tag": "p",
+          "text": "6.1 Paid Features"
+        },
+        {
+          "tag": "p",
+          "text": "Mochii may offer premium features through subscriptions or one-time in-app purchases (\"IAP\"), processed via Apple's App Store. All purchases are subject to Apple's payment terms."
+        },
+        {
+          "tag": "p",
+          "text": "6.2 Subscriptions"
+        },
+        {
+          "tag": "li",
+          "text": "Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current billing period"
+        },
+        {
+          "tag": "li",
+          "text": "You can manage and cancel your subscription at any time through your Apple ID settings"
+        },
+        {
+          "tag": "li",
+          "text": "No refunds are provided for the unused portion of a subscription period, except as required by applicable law"
+        },
+        {
+          "tag": "p",
+          "text": "6.3 Price Changes"
+        },
+        {
+          "tag": "p",
+          "text": "We reserve the right to change subscription prices. We will give you reasonable notice of any price changes. Continued use after a price change takes effect constitutes acceptance of the new price."
+        },
+        {
+          "tag": "p",
+          "text": "6.4 Refunds"
+        },
+        {
+          "tag": "p",
+          "text": "All purchases are final and non-refundable unless required by law. For refund requests, please contact Apple Support directly, as all billing is handled through the App Store."
+        },
+        {
+          "tag": "h2",
+          "text": "7. Intellectual Property"
+        },
+        {
+          "tag": "p",
+          "text": "All content, features, design elements, trademarks, logos, and technology within the App are owned by or licensed to Mochii and are protected by applicable intellectual property laws."
+        },
+        {
+          "tag": "p",
+          "text": "You may not copy, reproduce, distribute, or create derivative works based on any part of the App without our prior written permission."
+        },
+        {
+          "tag": "h2",
+          "text": "8. Privacy"
+        },
+        {
+          "tag": "p",
+          "text": "Your use of the App is also governed by our Privacy Policy, which is incorporated into these Terms by reference. By using Mochii, you consent to the data practices described in our Privacy Policy."
+        },
+        {
+          "tag": "h2",
+          "text": "9. Third-Party Services & Links"
+        },
+        {
+          "tag": "p",
+          "text": "The App may contain links to or integrate with third-party services. We do not control these services and are not responsible for their content, privacy practices, or terms. Accessing third-party services is at your own risk."
+        },
+        {
+          "tag": "h2",
+          "text": "10. Disclaimers"
+        },
+        {
+          "tag": "p",
+          "text": "THE APP IS PROVIDED \"AS IS\" AND \"AS AVAILABLE\" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO:"
+        },
+        {
+          "tag": "li",
+          "text": "FITNESS FOR A PARTICULAR PURPOSE"
+        },
+        {
+          "tag": "li",
+          "text": "ACCURACY OR RELIABILITY OF AI-GENERATED CONTENT"
+        },
+        {
+          "tag": "li",
+          "text": "UNINTERRUPTED OR ERROR-FREE OPERATION"
+        },
+        {
+          "tag": "li",
+          "text": "THAT THE APP WILL MEET YOUR EXPECTATIONS OR REQUIREMENTS"
+        },
+        {
+          "tag": "p",
+          "text": "Mochii is an entertainment and companionship app. It is not a substitute for professional mental health support, medical advice, or crisis services. If you are in distress, please contact a qualified professional or a crisis helpline in your country."
+        },
+        {
+          "tag": "h2",
+          "text": "11. Limitation of Liability"
+        },
+        {
+          "tag": "p",
+          "text": "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, MOCHII AND ITS OFFICERS, DIRECTORS, EMPLOYEES, AND AFFILIATES SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING LOSS OF DATA, LOSS OF PROFITS, OR EMOTIONAL HARM, ARISING FROM YOUR USE OF OR INABILITY TO USE THE APP."
+        },
+        {
+          "tag": "p",
+          "text": "OUR TOTAL LIABILITY TO YOU FOR ANY CLAIMS ARISING FROM THESE TERMS OR YOUR USE OF THE APP SHALL NOT EXCEED THE GREATER OF (A) THE AMOUNT YOU PAID TO US IN THE TWELVE MONTHS PRIOR TO THE CLAIM, OR (B) $10.00 USD."
+        },
+        {
+          "tag": "h2",
+          "text": "12. Indemnification"
+        },
+        {
+          "tag": "p",
+          "text": "You agree to defend, indemnify, and hold harmless Mochii and its affiliates from any claims, damages, losses, or expenses (including reasonable legal fees) arising out of or related to your use of the App, your violation of these Terms, or your violation of any third-party rights."
+        },
+        {
+          "tag": "h2",
+          "text": "13. Termination"
+        },
+        {
+          "tag": "p",
+          "text": "We reserve the right to suspend or permanently terminate your access to the App at any time, for any reason, including but not limited to violation of these Terms, without prior notice or liability."
+        },
+        {
+          "tag": "p",
+          "text": "Upon termination, your license to use the App ends immediately. Sections 7, 10, 11, 12, and 14 of these Terms survive termination."
+        },
+        {
+          "tag": "p",
+          "text": "You may stop using the App and delete your account at any time via Settings → Account → Delete Account."
+        },
+        {
+          "tag": "h2",
+          "text": "14. Governing Law & Dispute Resolution"
+        },
+        {
+          "tag": "p",
+          "text": "These Terms shall be governed by and construed in accordance with the laws of [Insert State/Country], without regard to conflict of law principles."
+        },
+        {
+          "tag": "p",
+          "text": "Any disputes arising from these Terms or your use of the App will be resolved through binding arbitration in accordance with the rules of [Insert Arbitration Body, e.g., AAA or JAMS], rather than in court, except that either party may seek injunctive relief in court for intellectual property violations."
+        },
+        {
+          "tag": "p",
+          "text": "Class action waiver: You agree to resolve disputes with us on an individual basis and waive any right to participate in a class action lawsuit or class-wide arbitration."
+        },
+        {
+          "tag": "h2",
+          "text": "15. Apple-Specific Terms"
+        },
+        {
+          "tag": "p",
+          "text": "As the App is distributed via the Apple App Store, the following additional terms apply:"
+        },
+        {
+          "tag": "li",
+          "text": "These Terms are between you and Mochii only, not Apple Inc."
+        },
+        {
+          "tag": "li",
+          "text": "Apple has no obligation to provide support or maintenance for the App"
+        },
+        {
+          "tag": "li",
+          "text": "In the event of any conflict between these Terms and Apple's App Store Terms of Service, Apple's terms shall govern"
+        },
+        {
+          "tag": "li",
+          "text": "Apple and its subsidiaries are third-party beneficiaries of these Terms and may enforce them against you"
+        },
+        {
+          "tag": "h2",
+          "text": "16. Changes to These Terms"
+        },
+        {
+          "tag": "p",
+          "text": "We may revise these Terms at any time. We will notify you of material changes via in-app notice or email. The \"Last Updated\" date at the top of this page will always reflect the most recent revision. Your continued use of the App after changes are posted constitutes your acceptance."
+        },
+        {
+          "tag": "h2",
+          "text": "17. Contact Us"
+        },
+        {
+          "tag": "p",
+          "text": "If you have any questions about these Terms, please contact us:"
+        },
+        {
+          "tag": "p",
+          "text": "Mochii Support📧 oneboardhq@outlook.com"
+        }
+      ],
+      "title": "Terms of Use",
+      "lead": [
+        {
+          "type": "paragraph",
+          "text": "App Name: MochiiEffective Date: 3rd March 2026Last Updated: 3rd March 2026"
+        }
+      ],
+      "sections": [
+        {
+          "title": "1. Acceptance of Terms",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "By downloading, installing, or using the Mochii app (\"App\"), you agree to be bound by these Terms of Use (\"Terms\"). If you do not agree to these Terms, do not use the App."
+            },
+            {
+              "type": "paragraph",
+              "text": "These Terms form a legally binding agreement between you and Mochii (\"we,\" \"our,\" or \"us\"). We reserve the right to update these Terms at any time. Continued use of the App after changes are posted constitutes your acceptance of the revised Terms."
+            }
+          ]
+        },
+        {
+          "title": "2. Eligibility",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "You must be at least 18 years old to use Mochii. If you are under 18, you represent that your parent or legal guardian has reviewed and agreed to these Terms on your behalf."
+            },
+            {
+              "type": "paragraph",
+              "text": "By using the App, you confirm that:"
+            },
+            {
+              "type": "bullet",
+              "text": "You are legally capable of entering into a binding agreement"
+            },
+            {
+              "type": "bullet",
+              "text": "You are not located in a country subject to a U.S. government embargo or designated as a \"terrorist supporting\" country"
+            },
+            {
+              "type": "bullet",
+              "text": "You are not listed on any U.S. government prohibited or restricted party list"
+            }
+          ]
+        },
+        {
+          "title": "3. Account Registration",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "To access certain features, you may be required to create an account. You agree to:"
+            },
+            {
+              "type": "bullet",
+              "text": "Provide accurate, current, and complete information during registration"
+            },
+            {
+              "type": "bullet",
+              "text": "Keep your login credentials confidential and not share them with others"
+            },
+            {
+              "type": "bullet",
+              "text": "Notify us immediately at [Insert Support Email] if you suspect unauthorized access to your account"
+            },
+            {
+              "type": "bullet",
+              "text": "Be solely responsible for all activity that occurs under your account"
+            },
+            {
+              "type": "paragraph",
+              "text": "We reserve the right to suspend or terminate accounts that violate these Terms or that we determine, in our sole discretion, to be fraudulent or harmful."
+            }
+          ]
+        },
+        {
+          "title": "4. Use of the App",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "4.1 License"
+            },
+            {
+              "type": "paragraph",
+              "text": "We grant you a limited, non-exclusive, non-transferable, revocable license to use Mochii for your personal, non-commercial use, subject to these Terms."
+            },
+            {
+              "type": "paragraph",
+              "text": "4.2 Acceptable Use"
+            },
+            {
+              "type": "paragraph",
+              "text": "You agree to use the App only for lawful purposes. You must not:"
+            },
+            {
+              "type": "bullet",
+              "text": "Use the App to harass, threaten, or harm any person"
+            },
+            {
+              "type": "bullet",
+              "text": "Attempt to extract, reverse-engineer, decompile, or disassemble any part of the App"
+            },
+            {
+              "type": "bullet",
+              "text": "Use automated tools (bots, scrapers, crawlers) to access or interact with the App"
+            },
+            {
+              "type": "bullet",
+              "text": "Attempt to circumvent any security, access control, or rate-limiting measures"
+            },
+            {
+              "type": "bullet",
+              "text": "Impersonate any person, entity, or Mochii itself"
+            },
+            {
+              "type": "bullet",
+              "text": "Use the App for any commercial purpose without our prior written consent"
+            },
+            {
+              "type": "bullet",
+              "text": "Upload or transmit malware, viruses, or any malicious code"
+            },
+            {
+              "type": "paragraph",
+              "text": "4.3 AI Interaction Guidelines"
+            },
+            {
+              "type": "paragraph",
+              "text": "Mochii features AI-powered companions. You acknowledge that:"
+            },
+            {
+              "type": "bullet",
+              "text": "Conversations with Mochii companions are generated by artificial intelligence and do not constitute real human relationships, professional advice (medical, legal, financial, or otherwise), or guaranteed outcomes"
+            },
+            {
+              "type": "bullet",
+              "text": "You will not attempt to manipulate the AI to generate harmful, illegal, or abusive content"
+            },
+            {
+              "type": "bullet",
+              "text": "AI-generated responses may occasionally be inaccurate, incomplete, or unexpected — you use them at your own discretion"
+            }
+          ]
+        },
+        {
+          "title": "5. User-Generated Content",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "If the App allows you to submit or share content (e.g., profile information, character customizations, or messages), you retain ownership of that content. However, by submitting content, you grant us a worldwide, royalty-free, non-exclusive license to use, store, and display your content solely for the purpose of operating and improving the App."
+            },
+            {
+              "type": "paragraph",
+              "text": "You represent and warrant that any content you submit:"
+            },
+            {
+              "type": "bullet",
+              "text": "Does not infringe any third-party intellectual property rights"
+            },
+            {
+              "type": "bullet",
+              "text": "Does not contain illegal, defamatory, obscene, or harmful material"
+            },
+            {
+              "type": "bullet",
+              "text": "Complies with all applicable laws"
+            },
+            {
+              "type": "paragraph",
+              "text": "We reserve the right to remove any content that violates these Terms without prior notice."
+            }
+          ]
+        },
+        {
+          "title": "6. Subscriptions & In-App Purchases",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "6.1 Paid Features"
+            },
+            {
+              "type": "paragraph",
+              "text": "Mochii may offer premium features through subscriptions or one-time in-app purchases (\"IAP\"), processed via Apple's App Store. All purchases are subject to Apple's payment terms."
+            },
+            {
+              "type": "paragraph",
+              "text": "6.2 Subscriptions"
+            },
+            {
+              "type": "bullet",
+              "text": "Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current billing period"
+            },
+            {
+              "type": "bullet",
+              "text": "You can manage and cancel your subscription at any time through your Apple ID settings"
+            },
+            {
+              "type": "bullet",
+              "text": "No refunds are provided for the unused portion of a subscription period, except as required by applicable law"
+            },
+            {
+              "type": "paragraph",
+              "text": "6.3 Price Changes"
+            },
+            {
+              "type": "paragraph",
+              "text": "We reserve the right to change subscription prices. We will give you reasonable notice of any price changes. Continued use after a price change takes effect constitutes acceptance of the new price."
+            },
+            {
+              "type": "paragraph",
+              "text": "6.4 Refunds"
+            },
+            {
+              "type": "paragraph",
+              "text": "All purchases are final and non-refundable unless required by law. For refund requests, please contact Apple Support directly, as all billing is handled through the App Store."
+            }
+          ]
+        },
+        {
+          "title": "7. Intellectual Property",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "All content, features, design elements, trademarks, logos, and technology within the App are owned by or licensed to Mochii and are protected by applicable intellectual property laws."
+            },
+            {
+              "type": "paragraph",
+              "text": "You may not copy, reproduce, distribute, or create derivative works based on any part of the App without our prior written permission."
+            }
+          ]
+        },
+        {
+          "title": "8. Privacy",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Your use of the App is also governed by our Privacy Policy, which is incorporated into these Terms by reference. By using Mochii, you consent to the data practices described in our Privacy Policy."
+            }
+          ]
+        },
+        {
+          "title": "9. Third-Party Services & Links",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The App may contain links to or integrate with third-party services. We do not control these services and are not responsible for their content, privacy practices, or terms. Accessing third-party services is at your own risk."
+            }
+          ]
+        },
+        {
+          "title": "10. Disclaimers",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "THE APP IS PROVIDED \"AS IS\" AND \"AS AVAILABLE\" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO:"
+            },
+            {
+              "type": "bullet",
+              "text": "FITNESS FOR A PARTICULAR PURPOSE"
+            },
+            {
+              "type": "bullet",
+              "text": "ACCURACY OR RELIABILITY OF AI-GENERATED CONTENT"
+            },
+            {
+              "type": "bullet",
+              "text": "UNINTERRUPTED OR ERROR-FREE OPERATION"
+            },
+            {
+              "type": "bullet",
+              "text": "THAT THE APP WILL MEET YOUR EXPECTATIONS OR REQUIREMENTS"
+            },
+            {
+              "type": "paragraph",
+              "text": "Mochii is an entertainment and companionship app. It is not a substitute for professional mental health support, medical advice, or crisis services. If you are in distress, please contact a qualified professional or a crisis helpline in your country."
+            }
+          ]
+        },
+        {
+          "title": "11. Limitation of Liability",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, MOCHII AND ITS OFFICERS, DIRECTORS, EMPLOYEES, AND AFFILIATES SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING LOSS OF DATA, LOSS OF PROFITS, OR EMOTIONAL HARM, ARISING FROM YOUR USE OF OR INABILITY TO USE THE APP."
+            },
+            {
+              "type": "paragraph",
+              "text": "OUR TOTAL LIABILITY TO YOU FOR ANY CLAIMS ARISING FROM THESE TERMS OR YOUR USE OF THE APP SHALL NOT EXCEED THE GREATER OF (A) THE AMOUNT YOU PAID TO US IN THE TWELVE MONTHS PRIOR TO THE CLAIM, OR (B) $10.00 USD."
+            }
+          ]
+        },
+        {
+          "title": "12. Indemnification",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "You agree to defend, indemnify, and hold harmless Mochii and its affiliates from any claims, damages, losses, or expenses (including reasonable legal fees) arising out of or related to your use of the App, your violation of these Terms, or your violation of any third-party rights."
+            }
+          ]
+        },
+        {
+          "title": "13. Termination",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We reserve the right to suspend or permanently terminate your access to the App at any time, for any reason, including but not limited to violation of these Terms, without prior notice or liability."
+            },
+            {
+              "type": "paragraph",
+              "text": "Upon termination, your license to use the App ends immediately. Sections 7, 10, 11, 12, and 14 of these Terms survive termination."
+            },
+            {
+              "type": "paragraph",
+              "text": "You may stop using the App and delete your account at any time via Settings → Account → Delete Account."
+            }
+          ]
+        },
+        {
+          "title": "14. Governing Law & Dispute Resolution",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "These Terms shall be governed by and construed in accordance with the laws of [Insert State/Country], without regard to conflict of law principles."
+            },
+            {
+              "type": "paragraph",
+              "text": "Any disputes arising from these Terms or your use of the App will be resolved through binding arbitration in accordance with the rules of [Insert Arbitration Body, e.g., AAA or JAMS], rather than in court, except that either party may seek injunctive relief in court for intellectual property violations."
+            },
+            {
+              "type": "paragraph",
+              "text": "Class action waiver: You agree to resolve disputes with us on an individual basis and waive any right to participate in a class action lawsuit or class-wide arbitration."
+            }
+          ]
+        },
+        {
+          "title": "15. Apple-Specific Terms",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "As the App is distributed via the Apple App Store, the following additional terms apply:"
+            },
+            {
+              "type": "bullet",
+              "text": "These Terms are between you and Mochii only, not Apple Inc."
+            },
+            {
+              "type": "bullet",
+              "text": "Apple has no obligation to provide support or maintenance for the App"
+            },
+            {
+              "type": "bullet",
+              "text": "In the event of any conflict between these Terms and Apple's App Store Terms of Service, Apple's terms shall govern"
+            },
+            {
+              "type": "bullet",
+              "text": "Apple and its subsidiaries are third-party beneficiaries of these Terms and may enforce them against you"
+            }
+          ]
+        },
+        {
+          "title": "16. Changes to These Terms",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We may revise these Terms at any time. We will notify you of material changes via in-app notice or email. The \"Last Updated\" date at the top of this page will always reflect the most recent revision. Your continued use of the App after changes are posted constitutes your acceptance."
+            }
+          ]
+        },
+        {
+          "title": "17. Contact Us",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "If you have any questions about these Terms, please contact us:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Mochii Support📧 oneboardhq@outlook.com"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "href": "./#about",
+          "text": "About"
+        },
+        {
+          "href": "./#features",
+          "text": "Features"
+        },
+        {
+          "href": "./privacy",
+          "text": "Privacy"
+        },
+        {
+          "href": "https://framer.link/7L9chrF",
+          "text": "Get Started"
+        },
+        {
+          "href": "./privacy",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "./",
+          "text": "Back to home"
+        },
+        {
+          "href": "./terms-of-use",
+          "text": "Terms of Use"
+        },
+        {
+          "href": "./eula",
+          "text": "End User License Agreement (EULA)"
+        },
+        {
+          "href": "https://www.framer.com",
+          "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+        }
+      ]
+    },
+    "/eula": {
+      "route": "/eula",
+      "slug": "eula",
+      "meta": {
+        "title": "EULA - mochii",
+        "description": "Chat with AI characters on mochii — your cozy space for immersive, personalized conversations with unique AI personas. Start chatting for free today.",
+        "canonical": "https://mochii.framer.website/eula"
+      },
+      "items": [
+        {
+          "tag": "h1",
+          "text": "End User License Agreement (EULA)"
+        },
+        {
+          "tag": "p",
+          "text": "App Name: MochiiEffective Date: 3rd March 2026Last Updated: 3rd March 2026"
+        },
+        {
+          "tag": "h2",
+          "text": "1. Agreement to Terms"
+        },
+        {
+          "tag": "p",
+          "text": "This End User License Agreement (\"EULA\") is a legally binding agreement between you (\"User\" or \"you\") and Mochii (\"Licensor,\" \"we,\" \"our,\" or \"us\") governing your use of the Mochii mobile application (\"App\"), including any updates, upgrades, or supplemental services provided in connection with it."
+        },
+        {
+          "tag": "p",
+          "text": "By downloading, installing, or using the App, you acknowledge that you have read, understood, and agree to be bound by this EULA. If you do not agree, do not download or use the App."
+        },
+        {
+          "tag": "p",
+          "text": "This EULA is entered into between you and Mochii only — notwith Apple Inc. Apple is not a party to this EULA and is not responsible for the App or its content."
+        },
+        {
+          "tag": "h2",
+          "text": "2. License Grant"
+        },
+        {
+          "tag": "p",
+          "text": "Subject to your compliance with this EULA, Mochii grants you a limited, personal, non-exclusive, non-transferable, non-sublicensable, revocable license to:"
+        },
+        {
+          "tag": "li",
+          "text": "Download and install one copy of the App on any Apple-branded device that you own or control"
+        },
+        {
+          "tag": "li",
+          "text": "Use the App solely for your personal, non-commercial purposes"
+        },
+        {
+          "tag": "li",
+          "text": "Access and use any content or features made available within the App, subject to any applicable subscription or purchase requirements"
+        },
+        {
+          "tag": "p",
+          "text": "This license does not include the right to use the App on any device you do not own or control, or to make the App available over a network where it could be used by multiple devices simultaneously."
+        },
+        {
+          "tag": "h2",
+          "text": "3. License Restrictions"
+        },
+        {
+          "tag": "p",
+          "text": "You may not, and you may not permit or enable any third party to:"
+        },
+        {
+          "tag": "li",
+          "text": "Copy, reproduce, modify, or create derivative works of the App or any part thereof"
+        },
+        {
+          "tag": "li",
+          "text": "Reverse engineer, disassemble, decompile, decode, or attempt to derive the source code of the App"
+        },
+        {
+          "tag": "li",
+          "text": "Remove, alter, or obscure any proprietary notices, labels, or markings on the App"
+        },
+        {
+          "tag": "li",
+          "text": "Rent, lease, lend, sell, sublicense, assign, distribute, or otherwise transfer the App or this EULA to any third party"
+        },
+        {
+          "tag": "li",
+          "text": "Use the App for any commercial purpose, public display, or in any manner not expressly permitted by this EULA"
+        },
+        {
+          "tag": "li",
+          "text": "Use the App in any way that violates applicable local, national, or international laws or regulations"
+        },
+        {
+          "tag": "li",
+          "text": "Use the App to develop a competing product or service"
+        },
+        {
+          "tag": "h2",
+          "text": "4. Intellectual Property Ownership"
+        },
+        {
+          "tag": "p",
+          "text": "The App, including all content, features, graphics, user interface elements, code, and underlying technology, is owned by Mochii or its licensors and is protected by copyright, trademark, patent, trade secret, and other intellectual property laws."
+        },
+        {
+          "tag": "p",
+          "text": "This EULA does not transfer any ownership rights to you. You acknowledge that no title to the intellectual property in the App is transferred to you, and that you obtain only the limited usage rights expressly set forth in this EULA."
+        },
+        {
+          "tag": "p",
+          "text": "All rights not expressly granted herein are reserved by Mochii."
+        },
+        {
+          "tag": "h2",
+          "text": "5. AI-Generated Content"
+        },
+        {
+          "tag": "p",
+          "text": "The App uses artificial intelligence to generate companion interactions and conversational content. You acknowledge and agree that:"
+        },
+        {
+          "tag": "li",
+          "text": "All AI-generated characters, personas, dialogue, and content within the App are the intellectual property of Mochii"
+        },
+        {
+          "tag": "li",
+          "text": "You may not reproduce, publish, or distribute AI-generated content from the App outside of personal, non-commercial use"
+        },
+        {
+          "tag": "li",
+          "text": "AI-generated content is provided for entertainment purposes only and does not constitute professional, medical, psychological, legal, or financial advice"
+        },
+        {
+          "tag": "li",
+          "text": "Mochii makes no representations or warranties about the accuracy, appropriateness, or completeness of AI-generated content"
+        },
+        {
+          "tag": "h2",
+          "text": "6. Updates & Maintenance"
+        },
+        {
+          "tag": "p",
+          "text": "Mochii may, at its sole discretion, release updates, patches, or new versions of the App. Such updates may be required to continue using the App and may be delivered automatically. This EULA applies to all such updates unless a separate agreement accompanies them."
+        },
+        {
+          "tag": "p",
+          "text": "Apple has no obligation whatsoever to provide any maintenance or support services for the App."
+        },
+        {
+          "tag": "h2",
+          "text": "7. Subscriptions & In-App Purchases"
+        },
+        {
+          "tag": "p",
+          "text": "Certain features of the App may require payment via subscription or one-time in-app purchase, processed exclusively through Apple's App Store and governed by Apple's payment terms."
+        },
+        {
+          "tag": "li",
+          "text": "All fees are non-refundable except as required by applicable law or Apple's refund policy"
+        },
+        {
+          "tag": "li",
+          "text": "Subscriptions automatically renew unless cancelled at least 24 hours before the renewal date via your Apple ID settings"
+        },
+        {
+          "tag": "li",
+          "text": "You are solely responsible for managing and cancelling your subscriptions"
+        },
+        {
+          "tag": "h2",
+          "text": "8. Collection and Use of Data"
+        },
+        {
+          "tag": "p",
+          "text": "Your use of the App is subject to Mochii's Privacy Policy, available within the App. By using the App, you consent to the collection and use of data as described therein."
+        },
+        {
+          "tag": "h2",
+          "text": "9. Third-Party Materials"
+        },
+        {
+          "tag": "p",
+          "text": "The App may include or rely upon third-party software, libraries, or services. Any such third-party components are subject to their own license terms, and your use of the App constitutes acceptance of those terms where applicable. Mochii makes no warranties regarding any third-party materials."
+        },
+        {
+          "tag": "h2",
+          "text": "10. Disclaimer of Warranties"
+        },
+        {
+          "tag": "p",
+          "text": "THE APP IS PROVIDED TO YOU \"AS IS\" AND \"AS AVAILABLE,\" WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, MOCHII EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING BUT NOT LIMITED TO:"
+        },
+        {
+          "tag": "li",
+          "text": "IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT"
+        },
+        {
+          "tag": "li",
+          "text": "WARRANTIES THAT THE APP WILL MEET YOUR REQUIREMENTS OR EXPECTATIONS"
+        },
+        {
+          "tag": "li",
+          "text": "WARRANTIES THAT OPERATION OF THE APP WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE"
+        },
+        {
+          "tag": "li",
+          "text": "WARRANTIES AS TO THE ACCURACY OR RELIABILITY OF ANY CONTENT OBTAINED THROUGH THE APP"
+        },
+        {
+          "tag": "p",
+          "text": "NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY MOCHII OR ITS REPRESENTATIVES SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THIS EULA."
+        },
+        {
+          "tag": "h2",
+          "text": "11. Limitation of Liability"
+        },
+        {
+          "tag": "p",
+          "text": "TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL MOCHII, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, OR LICENSORS BE LIABLE FOR:"
+        },
+        {
+          "tag": "li",
+          "text": "ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES"
+        },
+        {
+          "tag": "li",
+          "text": "LOSS OF PROFITS, REVENUE, DATA, GOODWILL, OR OTHER INTANGIBLE LOSSES"
+        },
+        {
+          "tag": "li",
+          "text": "DAMAGES RESULTING FROM UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR DATA"
+        },
+        {
+          "tag": "li",
+          "text": "ANY MATTER BEYOND MOCHII'S REASONABLE CONTROL"
+        },
+        {
+          "tag": "p",
+          "text": "WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), STATUTE, OR ANY OTHER LEGAL THEORY, EVEN IF MOCHII HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+        },
+        {
+          "tag": "p",
+          "text": "MOCHII'S TOTAL CUMULATIVE LIABILITY TO YOU FOR ALL CLAIMS UNDER THIS EULA SHALL NOT EXCEED THE GREATER OF (A) THE FEES YOU PAID FOR THE APP IN THE TWELVE MONTHS PRECEDING THE CLAIM, OR (B) $10.00 USD."
+        },
+        {
+          "tag": "h2",
+          "text": "12. Indemnification"
+        },
+        {
+          "tag": "p",
+          "text": "You agree to indemnify, defend, and hold harmless Mochii and its affiliates, officers, directors, employees, agents, and licensors from and against any and all claims, liabilities, damages, losses, costs, and expenses (including reasonable attorneys' fees) arising out of or relating to:"
+        },
+        {
+          "tag": "li",
+          "text": "Your use of or inability to use the App"
+        },
+        {
+          "tag": "li",
+          "text": "Your violation of this EULA"
+        },
+        {
+          "tag": "li",
+          "text": "Your violation of any applicable law or regulation"
+        },
+        {
+          "tag": "li",
+          "text": "Your infringement of any third-party rights"
+        },
+        {
+          "tag": "h2",
+          "text": "13. Term & Termination"
+        },
+        {
+          "tag": "p",
+          "text": "This EULA is effective from the date you first download or use the App and remains in effect until terminated."
+        },
+        {
+          "tag": "p",
+          "text": "Termination by you: You may terminate this EULA at any time by deleting the App and your account from all devices."
+        },
+        {
+          "tag": "p",
+          "text": "Termination by Mochii: We may terminate this EULA and your access to the App immediately and without notice if you breach any provision of this EULA or our Terms of Use."
+        },
+        {
+          "tag": "p",
+          "text": "Effect of termination: Upon termination, the license granted to you under this EULA immediately ceases. Sections 4, 5, 10, 11, 12, and 15 shall survive termination."
+        },
+        {
+          "tag": "h2",
+          "text": "14. Export Compliance"
+        },
+        {
+          "tag": "p",
+          "text": "You may not use or export the App in violation of U.S. export laws and regulations. You represent that you are not located in a country subject to a U.S. government embargo or designated as a terrorist-supporting country, and that you are not listed on any U.S. government prohibited or restricted party list."
+        },
+        {
+          "tag": "h2",
+          "text": "15. Governing Law"
+        },
+        {
+          "tag": "p",
+          "text": "This EULA shall be governed by and construed in accordance with the laws of [Insert State/Country], without regard to its conflict of law provisions. Any disputes not subject to arbitration under the Terms of Use shall be subject to the exclusive jurisdiction of the courts located in [Insert Jurisdiction]."
+        },
+        {
+          "tag": "h2",
+          "text": "16. Apple as Third-Party Beneficiary"
+        },
+        {
+          "tag": "p",
+          "text": "You acknowledge and agree that Apple Inc. and its subsidiaries are third-party beneficiaries of this EULA. Upon your acceptance of this EULA, Apple will have the right (and is deemed to have accepted the right) to enforce this EULA against you as a third-party beneficiary."
+        },
+        {
+          "tag": "p",
+          "text": "In the event of any conflict between this EULA and Apple's App Store Terms of Service, Apple's terms shall prevail solely with respect to the conflicting provision."
+        },
+        {
+          "tag": "h2",
+          "text": "17. Severability"
+        },
+        {
+          "tag": "p",
+          "text": "If any provision of this EULA is found to be invalid, illegal, or unenforceable, the remaining provisions shall continue in full force and effect. The invalid provision shall be modified to the minimum extent necessary to make it enforceable."
+        },
+        {
+          "tag": "h2",
+          "text": "18. Entire Agreement"
+        },
+        {
+          "tag": "p",
+          "text": "This EULA, together with the Mochii Terms of Use and Privacy Policy, constitutes the entire agreement between you and Mochii with respect to the App and supersedes all prior or contemporaneous understandings, representations, or agreements relating to its subject matter."
+        },
+        {
+          "tag": "p",
+          "text": "19. Contact Information"
+        },
+        {
+          "tag": "p",
+          "text": "For questions, concerns, or notices under this EULA, please contact:"
+        },
+        {
+          "tag": "p",
+          "text": "Mochii Support📧 oneboardhq@outlook.com"
+        }
+      ],
+      "title": "End User License Agreement (EULA)",
+      "lead": [
+        {
+          "type": "paragraph",
+          "text": "App Name: MochiiEffective Date: 3rd March 2026Last Updated: 3rd March 2026"
+        }
+      ],
+      "sections": [
+        {
+          "title": "1. Agreement to Terms",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "This End User License Agreement (\"EULA\") is a legally binding agreement between you (\"User\" or \"you\") and Mochii (\"Licensor,\" \"we,\" \"our,\" or \"us\") governing your use of the Mochii mobile application (\"App\"), including any updates, upgrades, or supplemental services provided in connection with it."
+            },
+            {
+              "type": "paragraph",
+              "text": "By downloading, installing, or using the App, you acknowledge that you have read, understood, and agree to be bound by this EULA. If you do not agree, do not download or use the App."
+            },
+            {
+              "type": "paragraph",
+              "text": "This EULA is entered into between you and Mochii only — notwith Apple Inc. Apple is not a party to this EULA and is not responsible for the App or its content."
+            }
+          ]
+        },
+        {
+          "title": "2. License Grant",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Subject to your compliance with this EULA, Mochii grants you a limited, personal, non-exclusive, non-transferable, non-sublicensable, revocable license to:"
+            },
+            {
+              "type": "bullet",
+              "text": "Download and install one copy of the App on any Apple-branded device that you own or control"
+            },
+            {
+              "type": "bullet",
+              "text": "Use the App solely for your personal, non-commercial purposes"
+            },
+            {
+              "type": "bullet",
+              "text": "Access and use any content or features made available within the App, subject to any applicable subscription or purchase requirements"
+            },
+            {
+              "type": "paragraph",
+              "text": "This license does not include the right to use the App on any device you do not own or control, or to make the App available over a network where it could be used by multiple devices simultaneously."
+            }
+          ]
+        },
+        {
+          "title": "3. License Restrictions",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "You may not, and you may not permit or enable any third party to:"
+            },
+            {
+              "type": "bullet",
+              "text": "Copy, reproduce, modify, or create derivative works of the App or any part thereof"
+            },
+            {
+              "type": "bullet",
+              "text": "Reverse engineer, disassemble, decompile, decode, or attempt to derive the source code of the App"
+            },
+            {
+              "type": "bullet",
+              "text": "Remove, alter, or obscure any proprietary notices, labels, or markings on the App"
+            },
+            {
+              "type": "bullet",
+              "text": "Rent, lease, lend, sell, sublicense, assign, distribute, or otherwise transfer the App or this EULA to any third party"
+            },
+            {
+              "type": "bullet",
+              "text": "Use the App for any commercial purpose, public display, or in any manner not expressly permitted by this EULA"
+            },
+            {
+              "type": "bullet",
+              "text": "Use the App in any way that violates applicable local, national, or international laws or regulations"
+            },
+            {
+              "type": "bullet",
+              "text": "Use the App to develop a competing product or service"
+            }
+          ]
+        },
+        {
+          "title": "4. Intellectual Property Ownership",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The App, including all content, features, graphics, user interface elements, code, and underlying technology, is owned by Mochii or its licensors and is protected by copyright, trademark, patent, trade secret, and other intellectual property laws."
+            },
+            {
+              "type": "paragraph",
+              "text": "This EULA does not transfer any ownership rights to you. You acknowledge that no title to the intellectual property in the App is transferred to you, and that you obtain only the limited usage rights expressly set forth in this EULA."
+            },
+            {
+              "type": "paragraph",
+              "text": "All rights not expressly granted herein are reserved by Mochii."
+            }
+          ]
+        },
+        {
+          "title": "5. AI-Generated Content",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The App uses artificial intelligence to generate companion interactions and conversational content. You acknowledge and agree that:"
+            },
+            {
+              "type": "bullet",
+              "text": "All AI-generated characters, personas, dialogue, and content within the App are the intellectual property of Mochii"
+            },
+            {
+              "type": "bullet",
+              "text": "You may not reproduce, publish, or distribute AI-generated content from the App outside of personal, non-commercial use"
+            },
+            {
+              "type": "bullet",
+              "text": "AI-generated content is provided for entertainment purposes only and does not constitute professional, medical, psychological, legal, or financial advice"
+            },
+            {
+              "type": "bullet",
+              "text": "Mochii makes no representations or warranties about the accuracy, appropriateness, or completeness of AI-generated content"
+            }
+          ]
+        },
+        {
+          "title": "6. Updates & Maintenance",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Mochii may, at its sole discretion, release updates, patches, or new versions of the App. Such updates may be required to continue using the App and may be delivered automatically. This EULA applies to all such updates unless a separate agreement accompanies them."
+            },
+            {
+              "type": "paragraph",
+              "text": "Apple has no obligation whatsoever to provide any maintenance or support services for the App."
+            }
+          ]
+        },
+        {
+          "title": "7. Subscriptions & In-App Purchases",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Certain features of the App may require payment via subscription or one-time in-app purchase, processed exclusively through Apple's App Store and governed by Apple's payment terms."
+            },
+            {
+              "type": "bullet",
+              "text": "All fees are non-refundable except as required by applicable law or Apple's refund policy"
+            },
+            {
+              "type": "bullet",
+              "text": "Subscriptions automatically renew unless cancelled at least 24 hours before the renewal date via your Apple ID settings"
+            },
+            {
+              "type": "bullet",
+              "text": "You are solely responsible for managing and cancelling your subscriptions"
+            }
+          ]
+        },
+        {
+          "title": "8. Collection and Use of Data",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Your use of the App is subject to Mochii's Privacy Policy, available within the App. By using the App, you consent to the collection and use of data as described therein."
+            }
+          ]
+        },
+        {
+          "title": "9. Third-Party Materials",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The App may include or rely upon third-party software, libraries, or services. Any such third-party components are subject to their own license terms, and your use of the App constitutes acceptance of those terms where applicable. Mochii makes no warranties regarding any third-party materials."
+            }
+          ]
+        },
+        {
+          "title": "10. Disclaimer of Warranties",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "THE APP IS PROVIDED TO YOU \"AS IS\" AND \"AS AVAILABLE,\" WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, MOCHII EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING BUT NOT LIMITED TO:"
+            },
+            {
+              "type": "bullet",
+              "text": "IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT"
+            },
+            {
+              "type": "bullet",
+              "text": "WARRANTIES THAT THE APP WILL MEET YOUR REQUIREMENTS OR EXPECTATIONS"
+            },
+            {
+              "type": "bullet",
+              "text": "WARRANTIES THAT OPERATION OF THE APP WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE"
+            },
+            {
+              "type": "bullet",
+              "text": "WARRANTIES AS TO THE ACCURACY OR RELIABILITY OF ANY CONTENT OBTAINED THROUGH THE APP"
+            },
+            {
+              "type": "paragraph",
+              "text": "NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY MOCHII OR ITS REPRESENTATIVES SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THIS EULA."
+            }
+          ]
+        },
+        {
+          "title": "11. Limitation of Liability",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL MOCHII, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, OR LICENSORS BE LIABLE FOR:"
+            },
+            {
+              "type": "bullet",
+              "text": "ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES"
+            },
+            {
+              "type": "bullet",
+              "text": "LOSS OF PROFITS, REVENUE, DATA, GOODWILL, OR OTHER INTANGIBLE LOSSES"
+            },
+            {
+              "type": "bullet",
+              "text": "DAMAGES RESULTING FROM UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR DATA"
+            },
+            {
+              "type": "bullet",
+              "text": "ANY MATTER BEYOND MOCHII'S REASONABLE CONTROL"
+            },
+            {
+              "type": "paragraph",
+              "text": "WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), STATUTE, OR ANY OTHER LEGAL THEORY, EVEN IF MOCHII HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+            },
+            {
+              "type": "paragraph",
+              "text": "MOCHII'S TOTAL CUMULATIVE LIABILITY TO YOU FOR ALL CLAIMS UNDER THIS EULA SHALL NOT EXCEED THE GREATER OF (A) THE FEES YOU PAID FOR THE APP IN THE TWELVE MONTHS PRECEDING THE CLAIM, OR (B) $10.00 USD."
+            }
+          ]
+        },
+        {
+          "title": "12. Indemnification",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "You agree to indemnify, defend, and hold harmless Mochii and its affiliates, officers, directors, employees, agents, and licensors from and against any and all claims, liabilities, damages, losses, costs, and expenses (including reasonable attorneys' fees) arising out of or relating to:"
+            },
+            {
+              "type": "bullet",
+              "text": "Your use of or inability to use the App"
+            },
+            {
+              "type": "bullet",
+              "text": "Your violation of this EULA"
+            },
+            {
+              "type": "bullet",
+              "text": "Your violation of any applicable law or regulation"
+            },
+            {
+              "type": "bullet",
+              "text": "Your infringement of any third-party rights"
+            }
+          ]
+        },
+        {
+          "title": "13. Term & Termination",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "This EULA is effective from the date you first download or use the App and remains in effect until terminated."
+            },
+            {
+              "type": "paragraph",
+              "text": "Termination by you: You may terminate this EULA at any time by deleting the App and your account from all devices."
+            },
+            {
+              "type": "paragraph",
+              "text": "Termination by Mochii: We may terminate this EULA and your access to the App immediately and without notice if you breach any provision of this EULA or our Terms of Use."
+            },
+            {
+              "type": "paragraph",
+              "text": "Effect of termination: Upon termination, the license granted to you under this EULA immediately ceases. Sections 4, 5, 10, 11, 12, and 15 shall survive termination."
+            }
+          ]
+        },
+        {
+          "title": "14. Export Compliance",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "You may not use or export the App in violation of U.S. export laws and regulations. You represent that you are not located in a country subject to a U.S. government embargo or designated as a terrorist-supporting country, and that you are not listed on any U.S. government prohibited or restricted party list."
+            }
+          ]
+        },
+        {
+          "title": "15. Governing Law",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "This EULA shall be governed by and construed in accordance with the laws of [Insert State/Country], without regard to its conflict of law provisions. Any disputes not subject to arbitration under the Terms of Use shall be subject to the exclusive jurisdiction of the courts located in [Insert Jurisdiction]."
+            }
+          ]
+        },
+        {
+          "title": "16. Apple as Third-Party Beneficiary",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "You acknowledge and agree that Apple Inc. and its subsidiaries are third-party beneficiaries of this EULA. Upon your acceptance of this EULA, Apple will have the right (and is deemed to have accepted the right) to enforce this EULA against you as a third-party beneficiary."
+            },
+            {
+              "type": "paragraph",
+              "text": "In the event of any conflict between this EULA and Apple's App Store Terms of Service, Apple's terms shall prevail solely with respect to the conflicting provision."
+            }
+          ]
+        },
+        {
+          "title": "17. Severability",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "If any provision of this EULA is found to be invalid, illegal, or unenforceable, the remaining provisions shall continue in full force and effect. The invalid provision shall be modified to the minimum extent necessary to make it enforceable."
+            }
+          ]
+        },
+        {
+          "title": "18. Entire Agreement",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "This EULA, together with the Mochii Terms of Use and Privacy Policy, constitutes the entire agreement between you and Mochii with respect to the App and supersedes all prior or contemporaneous understandings, representations, or agreements relating to its subject matter."
+            },
+            {
+              "type": "paragraph",
+              "text": "19. Contact Information"
+            },
+            {
+              "type": "paragraph",
+              "text": "For questions, concerns, or notices under this EULA, please contact:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Mochii Support📧 oneboardhq@outlook.com"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "href": "./#about",
+          "text": "About"
+        },
+        {
+          "href": "./#features",
+          "text": "Features"
+        },
+        {
+          "href": "./privacy",
+          "text": "Privacy"
+        },
+        {
+          "href": "https://framer.link/7L9chrF",
+          "text": "Get Started"
+        },
+        {
+          "href": "./privacy",
+          "text": "Mochii's Privacy Policy"
+        },
+        {
+          "href": "./",
+          "text": "Back to home"
+        },
+        {
+          "href": "./terms-of-use",
+          "text": "Terms of Use"
+        },
+        {
+          "href": "./eula",
+          "text": "End User License Agreement (EULA)"
+        },
+        {
+          "href": "https://www.framer.com",
+          "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+        }
+      ]
+    },
+    "/help": {
+      "route": "/help",
+      "slug": "help",
+      "meta": {
+        "title": "Message AI – AI Model Landing Page Template",
+        "description": "A sleek Framer template for AI startups, LLM tools, and generative assistants. Built to convert with bold design, flexible sections, and instant setup.",
+        "canonical": "https://mochii.framer.website/help"
+      },
+      "items": [
+        {
+          "tag": "h1",
+          "text": "Help"
+        },
+        {
+          "tag": "p",
+          "text": "Email: oneboard@outlook.com"
+        }
+      ],
+      "title": "Help",
+      "lead": [
+        {
+          "type": "paragraph",
+          "text": "Email: oneboard@outlook.com"
+        }
+      ],
+      "sections": [],
+      "links": [
+        {
+          "href": "./#about",
+          "text": "About"
+        },
+        {
+          "href": "./#features",
+          "text": "Features"
+        },
+        {
+          "href": "./privacy",
+          "text": "Privacy"
+        },
+        {
+          "href": "https://framer.link/7L9chrF",
+          "text": "Get Started"
+        },
+        {
+          "href": "./",
+          "text": "Back to home"
+        },
+        {
+          "href": "./terms-of-use",
+          "text": "Terms of Use"
+        },
+        {
+          "href": "./eula",
+          "text": "End User License Agreement (EULA)"
+        },
+        {
+          "href": "https://www.framer.com",
+          "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+        }
+      ]
+    }
+  },
+  "searchIndex": {
+    "/": {
+      "version": 1,
+      "title": "mochii - AI Character Chat",
+      "description": "Chat with AI characters on mochii — your cozy space for immersive, personalized conversations with unique AI personas. Start chatting for free today.",
+      "keywords": "",
+      "h1": [
+        "Dont just chat. Connect."
+      ],
+      "h2": [],
+      "h3": [],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "About",
+        "Features",
+        "Privacy",
+        "Get Started",
+        "Testimonials",
+        "Pricing",
+        "FAQ",
+        "Connect with millions of different ai characters.",
+        "Begin Journey",
+        "Scroll to explore",
+        "Chat with infinity",
+        "Navigation",
+        "Terms of Use",
+        "End User License Agreement (EULA)",
+        "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+      ],
+      "codeblock": [],
+      "url": "/"
+    }
+  },
+  "assets": {
+    "favicon": "/assets/imported/images/Tol3Z4lBYoJ9nC3NSn1u39KW5k-4294d579.svg",
+    "ogImage": "/assets/imported/images/TLFJn5MUBGGvBUhB0MtBafodB1g-39e26c6b.jpg",
+    "logoImage": "/assets/imported/images/xuQKZ6BntnNrQKvwCmf0kJDMeM8-23766c78.png",
+    "noiseImage": "/assets/imported/images/6mcf62RlDfRfU61Yg5vb2pefpi4-4bcedefe.png",
+    "heroImage": "/assets/imported/images/cvfYFahZUM1BAYhLDvvZYUG8vdQ-0552b1cf.png",
+    "fonts": {
+      "hostGroteskBold": "/assets/imported/fonts/co3BmWBnlCJ3U42vbbfdwMjZqljm0U0-1e9f8378.woff2",
+      "hostGroteskRegular": "/assets/imported/fonts/co3BmWBnlCJ3U42vbbfdwMjZpFjm-073d27d1.woff2",
+      "dmSansRegular": "/assets/imported/fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhS2f3ZGMZpg-23ef99c3.woff2",
+      "dmSansBold": "/assets/imported/fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthS2f3ZGMZpg-8b3ca14f.woff2",
+      "interRegular": "/assets/imported/fonts/GrgcKwrN6d3Uz8EwcLHZxwEfC4-d2835f64.woff2",
+      "interBold": "/assets/imported/fonts/syRNPWzAMIrcJ3wIlPIP43KjQs-452fe160.woff2"
+    }
+  },
+  "assetMap": {
+    "https://framerusercontent.com/images/Tol3Z4lBYoJ9nC3NSn1u39KW5k.svg": "/assets/imported/images/Tol3Z4lBYoJ9nC3NSn1u39KW5k-4294d579.svg",
+    "https://framerusercontent.com/assets/TLFJn5MUBGGvBUhB0MtBafodB1g.jpg": "/assets/imported/images/TLFJn5MUBGGvBUhB0MtBafodB1g-62044232.jpg",
+    "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DV36TGc5pg.woff2": "/assets/imported/fonts/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DV36TGc5pg-f081c19e.woff2",
+    "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DV30TGc.woff2": "/assets/imported/fonts/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DV30TGc-aab1bbf8.woff2",
+    "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxRR232VGM.woff2": "/assets/imported/fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxRR232VGM-40d99d0d.woff2",
+    "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxRSW32.woff2": "/assets/imported/fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxRSW32-9db953a0.woff2",
+    "https://fonts.gstatic.com/s/hostgrotesk/v5/co3fmWBnlCJ3U42vbbfdwMjZoWjqyUnwrw.woff2": "/assets/imported/fonts/co3fmWBnlCJ3U42vbbfdwMjZoWjqyUnwrw-eac5af88.woff2",
+    "https://fonts.gstatic.com/s/hostgrotesk/v5/co3fmWBnlCJ3U42vbbfdwMjZoWjkyUk.woff2": "/assets/imported/fonts/co3fmWBnlCJ3U42vbbfdwMjZoWjkyUk-ff723cc3.woff2",
+    "https://fonts.gstatic.com/s/hostgrotesk/v5/co3BmWBnlCJ3U42vbbfdwMjZqljm0U0.woff2": "/assets/imported/fonts/co3BmWBnlCJ3U42vbbfdwMjZqljm0U0-1e9f8378.woff2",
+    "https://fonts.gstatic.com/s/hostgrotesk/v5/co3BmWBnlCJ3U42vbbfdwMjZpFjm.woff2": "/assets/imported/fonts/co3BmWBnlCJ3U42vbbfdwMjZpFjm-073d27d1.woff2",
+    "https://fonts.gstatic.com/s/dmsans/v16/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhS2f3ZGMZpg.woff2": "/assets/imported/fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhS2f3ZGMZpg-23ef99c3.woff2",
+    "https://fonts.gstatic.com/s/dmsans/v16/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthS2f3ZGMZpg.woff2": "/assets/imported/fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthS2f3ZGMZpg-8b3ca14f.woff2",
+    "https://fonts.gstatic.com/s/dmsans/v16/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm32RmYJpso5.woff2": "/assets/imported/fonts/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm32RmYJpso5-ec6d3d1f.woff2",
+    "https://fonts.gstatic.com/s/dmsans/v16/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW32RmYJpso5.woff2": "/assets/imported/fonts/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW32RmYJpso5-835a93f6.woff2",
+    "https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2": "/assets/imported/fonts/5vvr9Vy74if2I6bQbJvbw7SY1pQ-197dd743.woff2",
+    "https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2": "/assets/imported/fonts/EOr0mi4hNtlgWNn9if640EZzXCo-f3fd0185.woff2",
+    "https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2": "/assets/imported/fonts/Y9k9QrlZAqio88Klkmbd8VoMQc-bb12e146.woff2",
+    "https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2": "/assets/imported/fonts/OYrD2tBIBPvoJXiIHnLoOXnY9M-ea808fe7.woff2",
+    "https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2": "/assets/imported/fonts/JeYwfuaPfZHQhEG8U5gtPDZ7WQ-418c934c.woff2",
+    "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2": "/assets/imported/fonts/GrgcKwrN6d3Uz8EwcLHZxwEfC4-d2835f64.woff2",
+    "https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2": "/assets/imported/fonts/b6Y37FthZeALduNqHicBT6FutY-22b5f26f.woff2",
+    "https://framerusercontent.com/assets/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2": "/assets/imported/fonts/DpPBYI0sL4fYLgAkX8KXOPVt7c-9f76c3a5.woff2",
+    "https://framerusercontent.com/assets/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2": "/assets/imported/fonts/4RAEQdEOrcnDkhHiiCbJOw92Lk-3be39f5d.woff2",
+    "https://framerusercontent.com/assets/1K3W8DizY3v4emK8Mb08YHxTbs.woff2": "/assets/imported/fonts/1K3W8DizY3v4emK8Mb08YHxTbs-be91894f.woff2",
+    "https://framerusercontent.com/assets/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2": "/assets/imported/fonts/tUSCtfYVM1I1IchuyCwz9gDdQ-974fd13b.woff2",
+    "https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2": "/assets/imported/fonts/VgYFWiwsAC5OYxAycRXXvhze58-b6c83878.woff2",
+    "https://framerusercontent.com/assets/syRNPWzAMIrcJ3wIlPIP43KjQs.woff2": "/assets/imported/fonts/syRNPWzAMIrcJ3wIlPIP43KjQs-452fe160.woff2",
+    "https://framerusercontent.com/assets/GIryZETIX4IFypco5pYZONKhJIo.woff2": "/assets/imported/fonts/GIryZETIX4IFypco5pYZONKhJIo-bcff39a6.woff2",
+    "https://framerusercontent.com/images/xuQKZ6BntnNrQKvwCmf0kJDMeM8.png?width=1669&height=504": "/assets/imported/images/xuQKZ6BntnNrQKvwCmf0kJDMeM8-23766c78.png",
+    "https://framerusercontent.com/images/6mcf62RlDfRfU61Yg5vb2pefpi4.png?width=256&height=256": "/assets/imported/images/6mcf62RlDfRfU61Yg5vb2pefpi4-4bcedefe.png",
+    "https://framerusercontent.com/images/cvfYFahZUM1BAYhLDvvZYUG8vdQ.png?width=2752&height=1536": "/assets/imported/images/cvfYFahZUM1BAYhLDvvZYUG8vdQ-0552b1cf.png",
+    "https://framerusercontent.com/images/TLFJn5MUBGGvBUhB0MtBafodB1g.jpg": "/assets/imported/images/TLFJn5MUBGGvBUhB0MtBafodB1g-39e26c6b.jpg"
+  },
+  "socialLinks": {
+    "primaryCta": "https://framer.link/7L9chrF",
+    "twitter": "https://www.twitter.com/",
+    "discord": "https://www.discord.com/",
+    "linkedin": "https://www.linkedin.com/"
+  }
+}
