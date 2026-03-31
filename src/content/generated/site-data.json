@@ -111,285 +111,33 @@
       "route": "/privacy",
       "slug": "privacy",
       "meta": {
-        "title": "Message AI – AI Model Landing Page Template",
-        "description": "A sleek Framer template for AI startups, LLM tools, and generative assistants. Built to convert with bold design, flexible sections, and instant setup.",
+        "title": "Privacy Policy for Mochii",
+        "description": "Learn how Mochii collects, uses, shares, and protects data, including AI processing by OpenRouter and Groq.",
         "canonical": "https://mochii.framer.website/privacy"
       },
       "items": [
         {
           "tag": "h1",
-          "text": "Privacy"
+          "text": "Privacy Policy for Mochii"
         },
         {
           "tag": "p",
-          "text": "App Name: MochiiEffective Date: 3rd March 2026Last Updated: 3rd March 2026"
-        },
-        {
-          "tag": "h2",
-          "text": "1. Introduction"
+          "text": "Effective Date: March 3, 2026"
         },
         {
           "tag": "p",
-          "text": "Welcome to Mochii (\"we,\" \"our,\" or \"us\"). We are committed to protecting your privacy and being transparent about how we handle your information. This Privacy Policy explains what data we collect, how we use it, and the choices you have when you use the Mochii app (\"App\")."
-        },
-        {
-          "tag": "p",
-          "text": "By downloading or using Mochii, you agree to the practices described in this policy. If you do not agree, please discontinue use of the App."
-        },
-        {
-          "tag": "h2",
-          "text": "2. Information We Collect"
-        },
-        {
-          "tag": "p",
-          "text": "2.1 Information You Provide Directly"
-        },
-        {
-          "tag": "li",
-          "text": "Account information – If you create an account, we collect your email address and any display name or profile details you choose to provide."
-        },
-        {
-          "tag": "li",
-          "text": "Chat content – Messages and conversations you have with your Mochii companion. These are used solely to power your in-app experience."
-        },
-        {
-          "tag": "li",
-          "text": "User preferences – Settings, character configurations, and personalization choices you make within the App."
-        },
-        {
-          "tag": "p",
-          "text": "2.2 Information Collected Automatically"
-        },
-        {
-          "tag": "li",
-          "text": "Device information – Device type, operating system version, and unique device identifiers."
-        },
-        {
-          "tag": "li",
-          "text": "Usage data – Features you interact with, session length, and general in-app behavior (e.g., which screens you visit). This data is collected in aggregate and is not linked to your identity."
-        },
-        {
-          "tag": "li",
-          "text": "Crash and performance logs – Diagnostic data to help us identify and fix technical issues."
-        },
-        {
-          "tag": "p",
-          "text": "2.3 Information We Do NOT Collect"
-        },
-        {
-          "tag": "li",
-          "text": "We do not collect your real name, phone number, or physical address unless you voluntarily provide it."
-        },
-        {
-          "tag": "li",
-          "text": "We do not access your contacts, camera, microphone, or photos unless you explicitly grant permission for a specific feature."
-        },
-        {
-          "tag": "li",
-          "text": "We do not track your location."
-        },
-        {
-          "tag": "h2",
-          "text": "3. How We Use Your Information"
-        },
-        {
-          "tag": "p",
-          "text": "We use the information we collect to:"
-        },
-        {
-          "tag": "li",
-          "text": "Provide and personalize your Mochii companion experience"
-        },
-        {
-          "tag": "li",
-          "text": "Remember your preferences and past interactions to make conversations feel more consistent"
-        },
-        {
-          "tag": "li",
-          "text": "Improve the App's performance, fix bugs, and develop new features"
-        },
-        {
-          "tag": "li",
-          "text": "Respond to your support requests"
-        },
-        {
-          "tag": "li",
-          "text": "Send important service-related notifications (e.g., policy updates, security alerts)"
-        },
-        {
-          "tag": "li",
-          "text": "Comply with applicable laws and legal obligations"
-        },
-        {
-          "tag": "p",
-          "text": "We do not use your chat content to train AI models without your explicit, opt-in consent."
-        },
-        {
-          "tag": "h2",
-          "text": "4. Data Sharing & Disclosure"
-        },
-        {
-          "tag": "p",
-          "text": "We value your trust and do not sell your personal data. We may share limited information only in the following circumstances:"
-        },
-        {
-          "tag": "li",
-          "text": "Service providers – Trusted third-party vendors (e.g., cloud hosting, analytics) who assist us in operating the App. These partners are contractually prohibited from using your data for any purpose other than providing services to us."
-        },
-        {
-          "tag": "li",
-          "text": "Legal compliance – When required by law, court order, or to protect the rights, safety, or property of Mochii, its users, or the public."
-        },
-        {
-          "tag": "li",
-          "text": "Business transfers – In the event of a merger, acquisition, or asset sale, your information may be transferred. We will notify you before this occurs."
-        },
-        {
-          "tag": "p",
-          "text": "We do not share your personal data with advertisers."
-        },
-        {
-          "tag": "h2",
-          "text": "5. Data Retention"
-        },
-        {
-          "tag": "p",
-          "text": "We retain your data only as long as necessary to provide the App's services or as required by law."
-        },
-        {
-          "tag": "li",
-          "text": "Account data is retained for as long as your account is active."
-        },
-        {
-          "tag": "li",
-          "text": "Chat history is stored to enable continuity of your experience and is deleted when you delete your account."
-        },
-        {
-          "tag": "li",
-          "text": "Anonymized analytics data may be retained indefinitely in aggregate form."
-        },
-        {
-          "tag": "h2",
-          "text": "6. Your Rights & Choices"
-        },
-        {
-          "tag": "p",
-          "text": "You have the right to:"
-        },
-        {
-          "tag": "li",
-          "text": "Access the personal data we hold about you"
-        },
-        {
-          "tag": "li",
-          "text": "Correct inaccurate or incomplete data"
-        },
-        {
-          "tag": "li",
-          "text": "Delete your data and account at any time, directly within the App (Settings → Account → Delete Account)"
-        },
-        {
-          "tag": "li",
-          "text": "Opt out of any optional data collection (e.g., analytics), where applicable"
-        },
-        {
-          "tag": "li",
-          "text": "Export your data upon request"
-        },
-        {
-          "tag": "p",
-          "text": "To exercise any of these rights, contact us at [Insert Support Email]."
-        },
-        {
-          "tag": "h2",
-          "text": "7. Data Security"
-        },
-        {
-          "tag": "p",
-          "text": "We take reasonable and industry-standard measures to protect your data, including:"
-        },
-        {
-          "tag": "li",
-          "text": "End-to-end encryption for chat messages"
-        },
-        {
-          "tag": "li",
-          "text": "Encrypted data transmission (HTTPS/TLS)"
-        },
-        {
-          "tag": "li",
-          "text": "Restricted access controls within our team"
-        },
-        {
-          "tag": "li",
-          "text": "Regular security reviews"
-        },
-        {
-          "tag": "p",
-          "text": "No method of transmission over the internet is 100% secure. While we strive to protect your information, we cannot guarantee absolute security."
-        },
-        {
-          "tag": "h2",
-          "text": "8. Children's Privacy"
-        },
-        {
-          "tag": "p",
-          "text": "Mochii is not intended for users under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal data, we will take prompt steps to delete it."
-        },
-        {
-          "tag": "p",
-          "text": "If you are a parent or guardian and believe your child has used Mochii, please contact us at [Insert Support Email]."
-        },
-        {
-          "tag": "h2",
-          "text": "9. Third-Party Services"
-        },
-        {
-          "tag": "p",
-          "text": "The App may integrate with third-party services (e.g., payment processors, AI infrastructure providers). These services have their own privacy policies, and we encourage you to review them. We are not responsible for the privacy practices of third parties."
-        },
-        {
-          "tag": "h2",
-          "text": "10. California Residents (CCPA)"
-        },
-        {
-          "tag": "p",
-          "text": "If you are a California resident, you have additional rights under the California Consumer Privacy Act (CCPA), including the right to know what personal information is collected, the right to delete it, and the right to opt out of the \"sale\" of personal information. We do not sell personal information. To submit a CCPA request, contact us at [Insert Support Email]."
-        },
-        {
-          "tag": "h2",
-          "text": "11. International Users"
-        },
-        {
-          "tag": "p",
-          "text": "Mochii is operated from [Insert Country]. If you are accessing the App from outside this region, please be aware that your data may be processed in a jurisdiction with different data protection laws. By using the App, you consent to the transfer and processing of your data in accordance with this policy."
-        },
-        {
-          "tag": "h2",
-          "text": "12. Changes to This Policy"
-        },
-        {
-          "tag": "p",
-          "text": "We may update this Privacy Policy from time to time. When we do, we will revise the \"Last Updated\" date at the top and, where appropriate, notify you via in-app notice or email. Continued use of the App after any changes constitutes your acceptance of the updated policy."
-        },
-        {
-          "tag": "h2",
-          "text": "13. Contact Us"
-        },
-        {
-          "tag": "p",
-          "text": "If you have any questions, concerns, or requests related to this Privacy Policy, please contact us:"
-        },
-        {
-          "tag": "p",
-          "text": "Mochii Support📧 oneboardhq@outlook.com"
+          "text": "Last Updated: March 31, 2026"
         }
       ],
-      "title": "Privacy",
+      "title": "Privacy Policy for Mochii",
       "lead": [
         {
           "type": "paragraph",
-          "text": "App Name: MochiiEffective Date: 3rd March 2026Last Updated: 3rd March 2026"
+          "text": "Effective Date: March 3, 2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "Last Updated: March 31, 2026"
         }
       ],
       "sections": [
@@ -398,11 +146,11 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "Welcome to Mochii (\"we,\" \"our,\" or \"us\"). We are committed to protecting your privacy and being transparent about how we handle your information. This Privacy Policy explains what data we collect, how we use it, and the choices you have when you use the Mochii app (\"App\")."
+              "text": "Welcome to Mochii (\"we,\" \"our,\" or \"us\"). We are committed to protecting your privacy and being transparent about how we collect, use, process, and share your information. This Privacy Policy explains what data we collect, how we use it, when we share it, and the choices you have when you use the Mochii app (the \"App\")."
             },
             {
               "type": "paragraph",
-              "text": "By downloading or using Mochii, you agree to the practices described in this policy. If you do not agree, please discontinue use of the App."
+              "text": "By downloading or using Mochii, you agree to the practices described in this Privacy Policy. If you do not agree, please discontinue use of the App."
             }
           ]
         },
@@ -415,15 +163,19 @@
             },
             {
               "type": "bullet",
-              "text": "Account information – If you create an account, we collect your email address and any display name or profile details you choose to provide."
+              "text": "Account information: If you create an account, we collect your email address and any display name, profile details, or other information you choose to provide."
             },
             {
               "type": "bullet",
-              "text": "Chat content – Messages and conversations you have with your Mochii companion. These are used solely to power your in-app experience."
+              "text": "Chat content: We collect the messages, prompts, and other content you submit in conversations with your Mochii companion."
             },
             {
               "type": "bullet",
-              "text": "User preferences – Settings, character configurations, and personalization choices you make within the App."
+              "text": "User preferences and settings: We collect settings, character configurations, personalization choices, and other preferences you choose within the App."
+            },
+            {
+              "type": "bullet",
+              "text": "Support communications: If you contact us for support, we may collect the information you provide in your message, including your email address and any related details you choose to share."
             },
             {
               "type": "paragraph",
@@ -431,31 +183,31 @@
             },
             {
               "type": "bullet",
-              "text": "Device information – Device type, operating system version, and unique device identifiers."
+              "text": "Device and technical information: We may collect technical information such as device model, operating system version, app version, language, time zone, IP address, and app instance or device identifiers reasonably necessary to operate and secure the App."
             },
             {
               "type": "bullet",
-              "text": "Usage data – Features you interact with, session length, and general in-app behavior (e.g., which screens you visit). This data is collected in aggregate and is not linked to your identity."
+              "text": "Usage data: We may collect information about how you use the App, such as features you interact with, screens viewed, session duration, and general in-app activity."
             },
             {
               "type": "bullet",
-              "text": "Crash and performance logs – Diagnostic data to help us identify and fix technical issues."
+              "text": "Crash and performance logs: We may collect diagnostic, crash, and performance information to identify bugs, improve reliability, and maintain the App."
             },
             {
               "type": "paragraph",
-              "text": "2.3 Information We Do NOT Collect"
+              "text": "2.3 Information We Do Not Collect Unless You Choose to Provide or Enable It"
             },
             {
-              "type": "bullet",
+              "type": "paragraph",
               "text": "We do not collect your real name, phone number, or physical address unless you voluntarily provide it."
             },
             {
-              "type": "bullet",
+              "type": "paragraph",
               "text": "We do not access your contacts, camera, microphone, or photos unless you explicitly grant permission for a specific feature."
             },
             {
-              "type": "bullet",
-              "text": "We do not track your location."
+              "type": "paragraph",
+              "text": "We do not track your precise location."
             }
           ]
         },
@@ -468,201 +220,378 @@
             },
             {
               "type": "bullet",
-              "text": "Provide and personalize your Mochii companion experience"
+              "text": "provide, operate, and maintain the App;"
             },
             {
               "type": "bullet",
-              "text": "Remember your preferences and past interactions to make conversations feel more consistent"
+              "text": "create and personalize your Mochii companion experience;"
             },
             {
               "type": "bullet",
-              "text": "Improve the App's performance, fix bugs, and develop new features"
+              "text": "remember your preferences and past interactions to make conversations more consistent;"
             },
             {
               "type": "bullet",
-              "text": "Respond to your support requests"
+              "text": "process and generate AI responses you request;"
             },
             {
               "type": "bullet",
-              "text": "Send important service-related notifications (e.g., policy updates, security alerts)"
+              "text": "improve the App's performance, quality, and features;"
             },
             {
               "type": "bullet",
-              "text": "Comply with applicable laws and legal obligations"
+              "text": "detect, prevent, and address abuse, fraud, security incidents, and technical issues;"
+            },
+            {
+              "type": "bullet",
+              "text": "respond to support requests and communicate with you about the service;"
+            },
+            {
+              "type": "bullet",
+              "text": "send important service-related notices, such as policy changes or security alerts; and"
+            },
+            {
+              "type": "bullet",
+              "text": "comply with applicable laws, regulations, and legal obligations."
             },
             {
               "type": "paragraph",
-              "text": "We do not use your chat content to train AI models without your explicit, opt-in consent."
+              "text": "We do not use your chat content to train our own AI models without your explicit opt-in consent."
             }
           ]
         },
         {
-          "title": "4. Data Sharing & Disclosure",
+          "title": "4. AI Features and Third-Party AI Providers",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "We value your trust and do not sell your personal data. We may share limited information only in the following circumstances:"
-            },
-            {
-              "type": "bullet",
-              "text": "Service providers – Trusted third-party vendors (e.g., cloud hosting, analytics) who assist us in operating the App. These partners are contractually prohibited from using your data for any purpose other than providing services to us."
-            },
-            {
-              "type": "bullet",
-              "text": "Legal compliance – When required by law, court order, or to protect the rights, safety, or property of Mochii, its users, or the public."
-            },
-            {
-              "type": "bullet",
-              "text": "Business transfers – In the event of a merger, acquisition, or asset sale, your information may be transferred. We will notify you before this occurs."
+              "text": "To provide AI features in Mochii, we may send certain user-submitted data to third-party AI service providers that process data on our behalf and return AI-generated outputs to the App."
             },
             {
               "type": "paragraph",
-              "text": "We do not share your personal data with advertisers."
+              "text": "4.1 Third-Party AI Providers We Use"
+            },
+            {
+              "type": "bullet",
+              "text": "OpenRouter"
+            },
+            {
+              "type": "bullet",
+              "text": "Groq"
+            },
+            {
+              "type": "paragraph",
+              "text": "4.2 What Data May Be Sent to Third-Party AI Providers"
+            },
+            {
+              "type": "paragraph",
+              "text": "When you use AI features, we may send the following data to OpenRouter and/or Groq, to the extent necessary to generate a response:"
+            },
+            {
+              "type": "bullet",
+              "text": "chat messages, prompts, and conversation content you submit;"
+            },
+            {
+              "type": "bullet",
+              "text": "character or persona settings relevant to the conversation;"
+            },
+            {
+              "type": "bullet",
+              "text": "optional images, audio, or other content you choose to upload or submit;"
+            },
+            {
+              "type": "bullet",
+              "text": "limited account or session identifiers necessary to deliver the service, maintain continuity, or prevent abuse;"
+            },
+            {
+              "type": "bullet",
+              "text": "technical metadata reasonably necessary to operate the service, such as timestamps, request metadata, and error information."
+            },
+            {
+              "type": "paragraph",
+              "text": "4.3 Why This Data Is Sent"
+            },
+            {
+              "type": "paragraph",
+              "text": "We send this data to OpenRouter and/or Groq solely to:"
+            },
+            {
+              "type": "bullet",
+              "text": "generate AI responses you request;"
+            },
+            {
+              "type": "bullet",
+              "text": "maintain and improve response delivery and service reliability;"
+            },
+            {
+              "type": "bullet",
+              "text": "protect the security and integrity of the service;"
+            },
+            {
+              "type": "bullet",
+              "text": "detect abuse, misuse, and fraud; and"
+            },
+            {
+              "type": "bullet",
+              "text": "comply with applicable legal obligations."
+            },
+            {
+              "type": "paragraph",
+              "text": "4.4 Your Consent"
+            },
+            {
+              "type": "paragraph",
+              "text": "We ask for your permission in the App before sending personal data or user-submitted content to a third-party AI provider where required."
+            },
+            {
+              "type": "paragraph",
+              "text": "If you do not consent, AI features that depend on third-party AI processing may not be available."
+            },
+            {
+              "type": "paragraph",
+              "text": "You may also withdraw consent later in the App's settings, although this may limit or disable certain AI features."
+            },
+            {
+              "type": "paragraph",
+              "text": "4.5 Third-Party Provider Processing"
+            },
+            {
+              "type": "paragraph",
+              "text": "OpenRouter and Groq process data according to their own terms, privacy practices, and retention policies, in addition to any contractual obligations they have with us. We require our service providers to protect data they process on our behalf and to use it only for providing services to us or as otherwise required by law."
+            },
+            {
+              "type": "paragraph",
+              "text": "We do not authorize third-party AI providers to use your content to train models for our benefit unless we clearly tell you and obtain any consent required."
             }
           ]
         },
         {
-          "title": "5. Data Retention",
+          "title": "5. Data Sharing and Disclosure",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "We retain your data only as long as necessary to provide the App's services or as required by law."
+              "text": "We value your trust and do not sell your personal data."
+            },
+            {
+              "type": "paragraph",
+              "text": "We may share your information only in the following circumstances:"
+            },
+            {
+              "type": "paragraph",
+              "text": "5.1 Service Providers"
+            },
+            {
+              "type": "paragraph",
+              "text": "We may share information with trusted third-party vendors and service providers that help us operate the App, such as hosting providers, analytics providers, payment processors, customer support tools, and AI infrastructure providers, including OpenRouter and Groq. These providers may access information only as needed to perform services for us, subject to applicable law and contractual or technical restrictions."
+            },
+            {
+              "type": "paragraph",
+              "text": "5.2 Legal Compliance and Protection"
+            },
+            {
+              "type": "paragraph",
+              "text": "We may disclose information if we believe disclosure is necessary to:"
             },
             {
               "type": "bullet",
-              "text": "Account data is retained for as long as your account is active."
+              "text": "comply with applicable law, regulation, legal process, or government request;"
             },
             {
               "type": "bullet",
-              "text": "Chat history is stored to enable continuity of your experience and is deleted when you delete your account."
+              "text": "enforce our terms or policies;"
             },
             {
               "type": "bullet",
-              "text": "Anonymized analytics data may be retained indefinitely in aggregate form."
+              "text": "protect the rights, safety, security, or property of Mochii, our users, or others; or"
+            },
+            {
+              "type": "bullet",
+              "text": "detect, prevent, or address fraud, abuse, security, or technical issues."
+            },
+            {
+              "type": "paragraph",
+              "text": "5.3 Business Transfers"
+            },
+            {
+              "type": "paragraph",
+              "text": "In the event of a merger, acquisition, financing, reorganization, bankruptcy, or sale of assets, your information may be transferred as part of that transaction. We will provide notice where required by law."
+            },
+            {
+              "type": "paragraph",
+              "text": "5.4 No Sale to Advertisers"
+            },
+            {
+              "type": "paragraph",
+              "text": "We do not sell your personal data and do not share your personal data with advertisers for their own advertising purposes."
             }
           ]
         },
         {
-          "title": "6. Your Rights & Choices",
+          "title": "6. Data Retention",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "You have the right to:"
+              "text": "We retain your information only for as long as reasonably necessary for the purposes described in this Privacy Policy, including to provide the App, comply with legal obligations, resolve disputes, and enforce agreements."
             },
             {
               "type": "bullet",
-              "text": "Access the personal data we hold about you"
+              "text": "Account data is retained while your account remains active and for a reasonable period thereafter as necessary for legitimate business or legal purposes."
             },
             {
               "type": "bullet",
-              "text": "Correct inaccurate or incomplete data"
+              "text": "Chat history may be retained to provide continuity of your experience and deleted or anonymized when you delete your account, subject to limited retention required for security, fraud prevention, legal compliance, or technical backup processes."
             },
             {
               "type": "bullet",
-              "text": "Delete your data and account at any time, directly within the App (Settings → Account → Delete Account)"
+              "text": "Diagnostic and analytics data may be retained for longer periods in aggregated or de-identified form."
             },
             {
               "type": "bullet",
-              "text": "Opt out of any optional data collection (e.g., analytics), where applicable"
-            },
-            {
-              "type": "bullet",
-              "text": "Export your data upon request"
-            },
-            {
-              "type": "paragraph",
-              "text": "To exercise any of these rights, contact us at [Insert Support Email]."
+              "text": "Third-party AI providers may retain limited logs or records according to their own retention practices, operational needs, and legal obligations."
             }
           ]
         },
         {
-          "title": "7. Data Security",
+          "title": "7. Your Rights and Choices",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "We take reasonable and industry-standard measures to protect your data, including:"
+              "text": "Depending on where you live, you may have the right to:"
             },
             {
               "type": "bullet",
-              "text": "End-to-end encryption for chat messages"
+              "text": "access the personal data we hold about you;"
             },
             {
               "type": "bullet",
-              "text": "Encrypted data transmission (HTTPS/TLS)"
+              "text": "correct inaccurate or incomplete data;"
             },
             {
               "type": "bullet",
-              "text": "Restricted access controls within our team"
+              "text": "delete your account and personal data;"
             },
             {
               "type": "bullet",
-              "text": "Regular security reviews"
+              "text": "withdraw consent for optional processing;"
+            },
+            {
+              "type": "bullet",
+              "text": "object to or restrict certain processing;"
+            },
+            {
+              "type": "bullet",
+              "text": "request export of your data, where available."
             },
             {
               "type": "paragraph",
-              "text": "No method of transmission over the internet is 100% secure. While we strive to protect your information, we cannot guarantee absolute security."
-            }
-          ]
-        },
-        {
-          "title": "8. Children's Privacy",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "Mochii is not intended for users under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal data, we will take prompt steps to delete it."
+              "text": "You may delete your account within the App through Settings > Account > Delete Account, where available."
             },
             {
               "type": "paragraph",
-              "text": "If you are a parent or guardian and believe your child has used Mochii, please contact us at [Insert Support Email]."
+              "text": "To exercise any of your privacy rights, contact us at oneboardhq@outlook.com."
             }
           ]
         },
         {
-          "title": "9. Third-Party Services",
+          "title": "8. Data Security",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "The App may integrate with third-party services (e.g., payment processors, AI infrastructure providers). These services have their own privacy policies, and we encourage you to review them. We are not responsible for the privacy practices of third parties."
-            }
-          ]
-        },
-        {
-          "title": "10. California Residents (CCPA)",
-          "blocks": [
+              "text": "We take reasonable and industry-standard measures to protect your information, including:"
+            },
             {
-              "type": "paragraph",
-              "text": "If you are a California resident, you have additional rights under the California Consumer Privacy Act (CCPA), including the right to know what personal information is collected, the right to delete it, and the right to opt out of the \"sale\" of personal information. We do not sell personal information. To submit a CCPA request, contact us at [Insert Support Email]."
-            }
-          ]
-        },
-        {
-          "title": "11. International Users",
-          "blocks": [
+              "type": "bullet",
+              "text": "encryption of data in transit using HTTPS/TLS;"
+            },
             {
-              "type": "paragraph",
-              "text": "Mochii is operated from [Insert Country]. If you are accessing the App from outside this region, please be aware that your data may be processed in a jurisdiction with different data protection laws. By using the App, you consent to the transfer and processing of your data in accordance with this policy."
-            }
-          ]
-        },
-        {
-          "title": "12. Changes to This Policy",
-          "blocks": [
+              "type": "bullet",
+              "text": "access controls designed to limit internal access to personal data;"
+            },
             {
-              "type": "paragraph",
-              "text": "We may update this Privacy Policy from time to time. When we do, we will revise the \"Last Updated\" date at the top and, where appropriate, notify you via in-app notice or email. Continued use of the App after any changes constitutes your acceptance of the updated policy."
-            }
-          ]
-        },
-        {
-          "title": "13. Contact Us",
-          "blocks": [
+              "type": "bullet",
+              "text": "monitoring, logging, and safeguards intended to protect against unauthorized access, misuse, loss, or alteration; and"
+            },
             {
-              "type": "paragraph",
-              "text": "If you have any questions, concerns, or requests related to this Privacy Policy, please contact us:"
+              "type": "bullet",
+              "text": "regular review of our security practices."
             },
             {
               "type": "paragraph",
-              "text": "Mochii Support📧 oneboardhq@outlook.com"
+              "text": "No method of transmission or storage is completely secure, and we cannot guarantee absolute security."
+            }
+          ]
+        },
+        {
+          "title": "9. Children's Privacy",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Mochii is not intended for children under 13, or the minimum age required in the user's jurisdiction. We do not knowingly collect personal information from children below the applicable minimum age. If we become aware that such information has been collected, we will take reasonable steps to delete it."
+            },
+            {
+              "type": "paragraph",
+              "text": "If you believe a child has provided personal information through Mochii, contact us at oneboardhq@outlook.com."
+            }
+          ]
+        },
+        {
+          "title": "10. Third-Party Services",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The App may integrate with third-party services, including payment processors, infrastructure providers, analytics tools, and AI providers. These third parties may have their own terms, privacy notices, and data handling practices. We encourage you to review their privacy policies where applicable."
+            }
+          ]
+        },
+        {
+          "title": "11. California Residents",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "If you are a California resident, you may have additional rights under applicable California privacy laws, including rights to know, access, delete, and correct certain personal information. We do not sell personal information."
+            },
+            {
+              "type": "paragraph",
+              "text": "To submit a privacy request, contact oneboardhq@outlook.com."
+            }
+          ]
+        },
+        {
+          "title": "12. International Users",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Mochii may process information in countries other than your own. These countries may have data protection laws that differ from those in your jurisdiction. Where required, we take appropriate steps to protect personal data transferred across borders."
+            },
+            {
+              "type": "paragraph",
+              "text": "By using the App, you understand that your information may be processed in countries outside your place of residence, subject to this Privacy Policy and applicable law."
+            }
+          ]
+        },
+        {
+          "title": "13. Changes to This Policy",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We may update this Privacy Policy from time to time. When we do, we will revise the \"Last Updated\" date above and, where appropriate, provide additional notice in the App or by other appropriate means."
+            }
+          ]
+        },
+        {
+          "title": "14. Contact Us",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "If you have any questions, concerns, or requests related to this Privacy Policy, please contact:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Mochii Support"
+            },
+            {
+              "type": "paragraph",
+              "text": "oneboardhq@outlook.com"
             }
           ]
         }

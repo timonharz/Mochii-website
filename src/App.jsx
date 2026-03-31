@@ -11,8 +11,9 @@ const routeMeta = {
     description: baseDescription,
   },
   "/privacy": {
-    title: "Privacy - mochii",
-    description: baseDescription,
+    title: "Privacy Policy for Mochii",
+    description:
+      "Learn how Mochii collects, uses, shares, and protects data, including AI processing by OpenRouter and Groq.",
   },
   "/terms-of-use": {
     title: "Terms of Use - mochii",
